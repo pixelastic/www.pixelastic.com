@@ -1,0 +1,83 @@
+==================================================================
+https://keybase.io/pixelastic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.pixelastic.com
+  * I am pixelastic (https://keybase.io/pixelastic) on keybase.
+  * I have a public key with fingerprint 8AC4 79D9 0D09 88CC 7425  6DDD 5816 3955 1AF2 CB92
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.11"
+        },
+        "key": {
+            "fingerprint": "8ac479d90d0988cc74256ddd581639551af2cb92",
+            "host": "keybase.io",
+            "key_id": "581639551AF2CB92",
+            "uid": "0acbe49641e2ef3def8d5a8a05c6ea00",
+            "username": "pixelastic"
+        },
+        "merkle_root": {
+            "ctime": 1403792928,
+            "hash": "a75310a8bfe15af62135b0d604f45895223f3dcc05bc7dc64255c13b8decaf9698ef9193db2cc27e1840f825940e18472a6e2d4e4a00fa050d78e2c2eb81ce9a",
+            "seqno": 23885
+        },
+        "service": {
+            "hostname": "www.pixelastic.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1403793073,
+    "expire_in": 157680000,
+    "prev": "1719b68da66829b2c63c733c131b0d8846c70281dc11307b03b4178071151d26",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+owFVkn1QFVUYxi+oqIThF6DUMLgmisBlz36eBa3BGJ2AGUpTycZw9+zZy8bl7mXv
+IqAyMOE0oo44iBijEGqNOEkKZeAHRqhYA4qKOdLIENeSMMYY79A4odYuQ5n719lz
+fu/zPs97zt4Zk2z+fhmhwtrwR50Vfp1Dkm3NCXvjVkLS5EIiYSuBnCp2GdbKJeZg
+IoHIxoWS6MF2VYt0aTK2f+iJnGBiic1Y96iay6RIO2MHgCiKtXirWlFdDqy7ddUS
+I6CIGF6QBVImBQgR4hmK5WRZZiHgaIFlgahQSBIoUzNL8xgvtCXGNTNV2dz9j09a
+Sb25YpzPGz8gRSRhRuAYgCms0DJWoMyKUCRZxGGRJC3Qg/WJTG61ADtFj6Eiy3EO
+1rOdOFPXtPHcyFAtCDAkzQuUQEHTk+jJMstEnqUBKUJJwYAVFY4CNCuRMkcyCsNC
+gaUo2myNEMlKiJcRZ4ZkEaAlKGMkKgInQKwIQKBliUKI4jGADKlAihUY0lrzlMhh
+SmYwYxpWTOukzENMIQpLECAsiGYID851aUQCRUPIFlm/+mYVYcu2NbeJePn5+fbn
+Ee1IyzEr3bpmaEhzmudZhuFOsJIbhe7T4wVYypyQypRUl2ze3f9vF5joC1OhSZ6O
+JXCBW9VxpmoRLM9B0vysPnizKQl4IEgclEWOg5RgBuZoxNO0OQ5gjgxChkM8SUEg
+IwBMOYmkJQbwkOQBYIFMcc+zmp0M0WFKelSHSzTydEwUlfm/Otnm528LmOJvPV9b
+4PSZ/77pL7XgpxGt3Qf8ew75gvqvb/p1YfCa1riK6rRkn/BwzqdTXg68sivnaNmT
+1wttwasehDoXfPDXBibpzOdNbScccUtWVW6bfXbJ2QMpHV3Rad/t2qbtq+AGOr5v
+v3oaFZRuuFh54XH37t19I3czyhoDLkRW51SfaW7xndnW6WtVAmxdBbWEo/jvfQOv
+nDq2ePpX4VNvTcrvHHxn0/HpX+y41yCmVg4OVz2rMbY/bC1Z+9FO242SgYyBBvuJ
+eK+vszQwMS993qj34nrbnIGg0RLu7SkBd7rjen9uirm8RKk71nM5JCh7eUpssi1o
+/5ODfzyZmfja0FhU55HAGc8O19eE9A7KqSXJl7z1k8DhlnVb/YXaO/3tasetcyFb
+ApsP/bL9x2+auqMjmgccVxaf/3PI74ZYutM3d3BqTES2fnL2/PemRayvf7f8+sjI
+udsLyOr6sqfLNB/o6y8bjWgLV3rGxk5uiCpPTa/sSc5Zka7ZqrKFMocxq4Z//2bx
+sU9uxrePNgeVT/s9qaqr8OwP3j3FQwGf5V6DC0OcKefll/Y2LNpvW7n03lDLllnr
+/A7Ody8b5nYwWXeveuMu9SZTy7m+uq8ffRttT+jd6F2dHhYfNfmn3GGme269YP94
+UcNbbcH3y/XavoIuPWzekbjElPvHiTdCPWlLe7LkttsbkxrHfnOHGTGPj3Y8eHrq
+GlodUyzWxZVn/gM=
+=K4X6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pixelastic
+
+==================================================================
+

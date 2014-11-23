@@ -12,4 +12,4 @@
     Hosted on private ks3 server
     Served by nginx
 
-    Source: https://github.com/pixelastic/www.pixelastic.com
+    Source: https://github.com/pixelastic/www.pixelastic.com/

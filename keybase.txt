@@ -81,3 +81,76 @@ View my publicly-auditable identity here: https://keybase.io/pixelastic
 
 ==================================================================
 
+
+
+
+
+
+==================================================================
+https://keybase.io/pixelastic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.pixelastic.com
+  * I am pixelastic (https://keybase.io/pixelastic) on keybase.
+  * I have a public key with fingerprint 49B8 97FB 08CB 49C4 5285  A590 9AD9 46FF D586 96CA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101b1dd98d7373b3fea6a0e5e852a7ba923c30b9f40c7ae13ac86c698166fc188eb0a",
+            "fingerprint": "49b897fb08cb49c45285a5909ad946ffd58696ca",
+            "host": "keybase.io",
+            "key_id": "9ad946ffd58696ca",
+            "kid": "0101b1dd98d7373b3fea6a0e5e852a7ba923c30b9f40c7ae13ac86c698166fc188eb0a",
+            "uid": "0acbe49641e2ef3def8d5a8a05c6ea00",
+            "username": "pixelastic"
+        },
+        "service": {
+            "hostname": "www.pixelastic.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1460538106,
+    "expire_in": 157680000,
+    "prev": "d297889af95dbaa23c7eeab4fb70e46dc8014d1c95130c4af3374182449a2bae",
+    "seqno": 21,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIrAnicrZJbSFRBGMfXypYW0pIudnnxoBS1bXPuM0uCT6sVCKIWUrHNzJmzndRz
+jrtnNTMhRMluZFCkG11IH4wudKPbk4oPlZAFlVFEUT5URoaGRIF2jhW99Ni8DPPN
+7/+f//cx/XNn+gJpOzu/7jmwcGQ0baD3TNK3OSPwvYEjllbPhRu4Sja9sSqNJZxo
+paFxYQ7wgCe8piGoqaIqElFnWMGAyQzKAlYJRoJIRUCQLgGqYsaLmEKFKgjyiqJT
+HkJGAOaCnG6YMRa344bpuLYSIhCpOgGQEglRSRagjGUEENaQpOi6JkMFKdQT7rAS
+nsINR3CChQzLrbmH6HS8f/D/OXfylx2mhElIkXgmMF3UmA41GUMMZKowDIAHJljc
+xNXMpW1jF6vCCcegXGOQc+u1BmXeaL1efjN1dXWhv1yIWtWuhx23HItaVe79Dsex
+w57cqbeneUaiv52ixDA1d5yuoJbFE4ZlcmHeJaljeNa8pABZhDxQghzbZRtxFjU8
+QlYVCNzlPcNqXUtNQCqECOtI1gjG7kBUxjCRdKICJikahYCXNJ4imRcBlbAuiqrE
+Q0GSEBYIZpzXW41pcWGBd3PimOuZMGImdpJxxjX29Wyd5UsL+Ganz/D+mS8wZ96f
+37dF9k/FVq0qYYXljQ3DS048P7491bXR+thyp+jJg+TeL+vrskPBqn7w8uK78Zsb
+Xn8qKB0NzjcvZWX7/eV3z/YUjK4+xQ+a39NzJ7KuhVtWDp2KZPqH2a0Vt/Wl59pe
+FS/RZPHy+3PGjLyhnMLByjcjU48jfYGlh3qPBCwf2dYtjGVmRIu7qtfcbG3/Nt50
+Y97uaFnZh/zdc5vtZc/G7jfntl4YevSwoqPkfMUiIXhyYDQ16xHrTBVmXH1WcfV5
+Tc7Howuenl6XNVXQq5bWqG/9y97fuTT8+MfySP2VyfQ9k/lPXxzrnihNXT/Yatuf
+1xyu3b/u3uBkpMMqatuXnD2WN7R4U9Pa9p/8XUd5
+=Q9HG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pixelastic
+
+==================================================================

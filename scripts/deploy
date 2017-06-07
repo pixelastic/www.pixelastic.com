@@ -10,4 +10,4 @@ rsync \
       --copy-links \
       --compress \
       ./source/ \
-      pixelastic:/var/www/pixelastic.com/www.pixelastic.com/
+      pixelastic:/var/www/www.pixelastic.com/

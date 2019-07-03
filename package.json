@@ -1,20 +1,33 @@
 {
+  "author": "Tim Carry (@pixelastic)",
+  "bugs": {
+    "url": "https://github.com/pixelastic/www.pixelastic.com/issues"
+  },
+  "dependencies": {
+  },
+  "description": "Tim Carry's (@pixelastic) website",
+  "devDependencies": {
+    "aberlaas": "~0.0.41",
+    "norska": "~0.0.6"
+  },
   "name": "www.pixelastic.com",
-  "description": "Main personal entrypoint",
-  "author": "Tim \"pixelastic\" Carry",
   "private": true,
   "repository": {
     "type": "git",
     "url": "git@github.com:pixelastic/www.pixelastic.com.git"
   },
-  "bugs": {
-    "url": "https://github.com/pixelastic/www.pixelastic.com/issues"
-  },
   "scripts": {
-    "deploy": "./scripts/deploy"
-  },
-  "devDependencies": {
-  },
-  "dependencies": {
+    "build": "./scripts/build",
+    "build:watch": "./scripts/build-watch",
+    "deploy": "./scripts/deploy",
+    "lint": "./scripts/lint",
+    "lint:css": "./scripts/lint-css",
+    "lint:css:fix": "./scripts/lint-css-fix",
+    "lint:fix": "./scripts/lint-fix",
+    "lint:js": "./scripts/lint-js",
+    "lint:js:fix": "./scripts/lint-js-fix",
+    "lint:json": "./scripts/lint-json",
+    "test": "./scripts/test",
+    "test:watch": "./scripts/test-watch"
   }
 }

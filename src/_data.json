@@ -1,0 +1,13 @@
+{
+  "page": {
+    "title": "Title",
+    "description": "Description",
+    "url": "my url"
+  },
+  "site": {
+    "url": "http://www.pixelastic.com/"
+  },
+  "author": {
+    "twitter": "pixelastic"
+  }
+}

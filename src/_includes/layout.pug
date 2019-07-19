@@ -1,0 +1,32 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='utf-8')
+    meta('http-equiv'='x-ua-compatible',content='ie-edge')
+    title=page.title
+    meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+    meta(name='description', content=page.description)
+    meta(name='twitter:card', content='summary_large_image')
+    meta(name='twitter:site', content=`@${author.twitter}`)
+    meta(name='twitter:creator', content=`@${author.twitter}`)
+    meta(property='og:url', content=page.url)
+    meta(property='og:title', content=page.title)
+    meta(property='og:description', content=page.description)
+    meta(property='og:image', content=page.image)
+    link(rel="shortcut icon", href=`${paths.toRoot}/favicon.ico`)
+    link(type="text/css", rel="stylesheet", href=`${paths.toRoot}/style.css`)
+    body.bg-gray-9
+      .fixed.w-full.top-0.z-9.h-8.bg-green-6.p-1.flrnw.flc
+        .fln.bold.white.text-6
+          a(href=site.url) pixelastic
+        .fla.flrnw.flrar.white.text-4
+          a.px-2(href="./coaching.html") Coaching
+          a.px-2(href="http://blog.pixelastic.com") Blog
+          a.px-2(href="http://talks.pixelastic.com") Talks
+          a.px-2(href="https://github.com/pixelastic") GitHub
+          a.px-2(href="https://twitter.com/pixelastic") Twitter
+
+      .mt-8.white.w-full.z-0
+        block content
+        script(src=`${paths.toRoot}/script.js`)
+

@@ -3,12 +3,11 @@
   "bugs": {
     "url": "https://github.com/pixelastic/www.pixelastic.com/issues"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "description": "Tim Carry's (@pixelastic) website",
   "devDependencies": {
-    "aberlaas": "~0.1.0",
-    "norska": "~0.1.0"
+    "aberlaas": "0.1.5",
+    "norska": "0.1.0"
   },
   "name": "www.pixelastic.com",
   "private": true,
@@ -18,7 +17,7 @@
   },
   "scripts": {
     "build": "./scripts/build",
-    "build:watch": "./scripts/build-watch",
+    "build:watch": "./scripts/serve",
     "deploy": "./scripts/deploy",
     "lint": "./scripts/lint",
     "lint:css": "./scripts/lint-css",
@@ -27,6 +26,7 @@
     "lint:js": "./scripts/lint-js",
     "lint:js:fix": "./scripts/lint-js-fix",
     "lint:json": "./scripts/lint-json",
+    "serve": "./scripts/serve",
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   }

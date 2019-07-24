@@ -6,7 +6,7 @@
   "dependencies": {},
   "description": "Tim Carry's (@pixelastic) website",
   "devDependencies": {
-    "aberlaas": "0.1.5",
+    "aberlaas": "0.1.8",
     "norska": "0.1.0"
   },
   "name": "www.pixelastic.com",

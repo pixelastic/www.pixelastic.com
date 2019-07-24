@@ -9,28 +9,6 @@ h2 {
 h3 {
   @apply text-4;
 }
-
-.grayscale-0 {
-  filter: grayscale(0);
-}
-.hover_grayscale-0:hover {
-  filter: grayscale(0);
-}
-.grayscale-1 {
-  filter: grayscale(.5);
-}
-.hover_grayscale-1:hover {
-  filter: grayscale(.5);
-}
-.grayscale-2 {
-  filter: grayscale(.75);
-}
-.hover_grayscale-2:hover {
-  filter: grayscale(.75);
-}
-.grayscale {
-  filter: grayscale(1);
-}
-.hover_grayscale:hover {
-  filter: grayscale(1);
+a:hover {
+  @apply underline;
 }

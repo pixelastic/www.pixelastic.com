@@ -1,13 +1,12 @@
 {
   "page": {
-    "title": "Title",
-    "description": "Description",
-    "url": "my url"
+    "title": "Tim Carry (@pixelastic) | Tech Public Speaking Coach",
+    "description": "Hi, I'm Tim Carry, aka. @pixelastic. I'm a developer, speaker, public speaking coach, hacker, player, and gamemaster."
   },
   "site": {
     "url": "http://www.pixelastic.com/"
   },
   "author": {
-    "twitter": "pixelastic"
+    "twitter": "@pixelastic"
   }
 }

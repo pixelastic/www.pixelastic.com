@@ -1,0 +1,6 @@
+- https with let's encrypt
+- banner for coaching session in english
+- Better listing of "Developer", "COach", etc
+- Changing blog color to match new green
+- Special page for projects
+- Special page for talks

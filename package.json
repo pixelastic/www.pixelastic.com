@@ -17,6 +17,7 @@
   },
   "scripts": {
     "build": "./scripts/build",
+    "build:prod": "NODE_ENV=production ./scripts/build",
     "build:watch": "./scripts/serve",
     "deploy": "./scripts/deploy",
     "lint": "./scripts/lint",

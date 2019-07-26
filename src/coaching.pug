@@ -5,13 +5,12 @@ block config
 
 block content
   //- Who am I?
-  .container.mx-auto.relative.flrnw
-    .w-50p.fln.flcnw.flc.p-4
-      div
+  .container.mx-auto.relative.min-h-50vh
+    .absolute.top-0.bottom-0.left-0.z-2.flcnw.flccv
+      .fln.bg-gray-9.bg-opacity-1.rounded-3.p-2.m-2
         h1.text-8 Tim Carry
         h2.text-5.italic Tech Public Speaking Coach
-    .w-50p.fln
-      img.w-100p(src="./images/dotcss2.jpg")
+    .absolute.top-0.bottom-0.right-0.w-100p.z-1.bg-no-repeat.bg-right.bg-cover.md_bg-contain(style="background-image:url('/images/dotcss2.jpg')")
 
   //- What I do
   .bg-gray-8.gray-2
@@ -25,29 +24,38 @@ block content
   //- Unique skills
   .bg-gray-9.py-7
     .container.mx-auto.p-2
-      .flrnw
-        .fln.w-33p.p-4.flrnw.flc
+      .flcnw.sm_flrnw
+        .fln.w-100p.sm_w-33p.p-2.sm_p-4.flrnw.flc
           a.grayscale-1.hover_grayscale-0.block(href="https://www.algolia.com")
-            img.max-h-12(src="./images/algolia.png")
-        .fln.w-33p.p-4.flrnw.flc
+            img.max-h-8.sm_max-h-12(src="./images/algolia.png")
+        .fln.w-100p.sm_w-33p.p-2.sm_p-4.flrnw.flc
           a.grayscale-1.hover_grayscale-0(href="https://www.meetup.com/HumanTalks-Paris/")
-            img.max-h-12.rounded(src="./images/humantalks.png")
-        .fln.w-33p.p-4.flrnw.flc
+            img.max-h-10.sm_max-h-12.rounded(src="./images/humantalks.png")
+        .fln.w-100p.sm_w-33p.p-2.sm_p-4.flrnw.flc
           a.grayscale-1.hover_grayscale-0(href="https://www.meetup.com/TechLunch/")
-            img.max-h-12.rounded(src="./images/techlunch.png")
+            img.max-h-10.sm_max-h-12.rounded(src="./images/techlunch.png")
 
-      .text-4.gray-4.py-5 Développeur, Speaker (Ex-Developer Advocate à Algolia) et Organisateur de Meetups (HumanTalks et TechLunch) mes compétences me donnent une expérience unique comme formateur:
+      .text-4.gray-4.py-5 Développeur, Speaker (Ex-Developer Advocate à 
+        a.white(href="https://www.algolia.com") Algolia
+        |) et Organisateur de Meetups (
+        a.white(href="https://www.meetup.com/HumanTalks-Paris/") HumanTalks 
+        |et 
+        a.white(href="https://www.meetup.com/TechLunch/") TechLunch
+        |) mes compétences me donnent une expérience unique comme formateur:
 
       .flcnw.flc
         .text-4
           .fln.py-1
             span.bold.text-5 En tant que #[.inline.green développeur], 
+            .block.sm_hidden
             span je comprends les sujets tech et peut aider sur le fond.
           .fln.py-1
             span.bold.text-5 En tant que #[.inline.blue speaker], 
+            .block.sm_hidden
             span j'ai l'expérience des conférences et peut aider sur la forme.
           .fln.py-1
             span.bold.text-5 En tant qu'#[.inline.orange organisateur], 
+            .block.sm_hidden
             span je connais le milieu et peut aider à trouver la bonne audience.
 
   //- How it works
@@ -55,17 +63,17 @@ block content
     .container.mx-auto.px-2
       .text-5.gray-4.text-center La formation dure #[.bold.inline.white 2 jours], pour un groupe de #[.bold.inline.white 4 à 6 personnes].
       
-      .flrw.text-4.pt-7.pb-4
-        .fln.w-50p.flrnw.flc
-          .bg-gray-9.rounded-3.w-90p.p-2
+      .flcw.xl_flrnw.text-4.pt-4.pb-4
+        .fln.w-100p.mx-auto.lg_w-75p.xl_w-50p.flrnw.flc
+          .bg-gray-9.rounded-3.w-100p.xl_m-2.p-2
             .bold.green-4 Méthodologies acquises
             ul.px-3.py-2
               li.bullet-tick.bullet-green Savoir identifier des sujets intéressants
               li.bullet-tick.bullet-green Organiser ses idées
               li.bullet-tick.bullet-green Créer des slides clairs
               li.bullet-tick.bullet-green Raconter une histoire engageante
-        .fln.w-50p.flrnw.flc
-          .bg-gray-9.rounded-3.w-90p.px-1.py-2
+        .fln.w-100p.mx-auto.lg_w-75p.xl_w-50p.pt-4.xl_pt-0.flrnw.flc
+          .bg-gray-9.rounded-3.w-100p.xl_m-2.p-2
             .bold.blue-4 Ateliers pratiques
             ul.px-3.py-2
               li.bullet-arrow.bullet-blue-6 Trouver un sujet 
@@ -77,28 +85,26 @@ block content
 
 
 
-  .bg-gray-9.py-5
+  .bg-gray-9.py-5.pb-5
     .container.mx-auto.p-2
-      .flrnw
-        .fln.w-50p.flrnw.flc
-          div
-            h2.text-7 Tarifs
-            .text-5.py-2
-              .py-0
-                .inline.bold.green 2 journées 
-                span de formation
-              .py-0
-                span + 
-                .inline.bold.green 1 journée 
-                span de suivi
-              .py-0
-                span pour 
-                .inline.bold.green 4 à 6 personnes
-            .text-center.text-7.bold.orange 7500€ HT
-        .fln.w-50p.flcnw.flc
-          .fla.flcnw
-            h2.text-7 Contact
-            .fla.flrnw.mt-5
-              a.text-8.bold.blue(href="mailto:tim@pixelastic.com") tim@pixelastic.com
+      .lg_flrnw.flcnw
+        .fln.w-100p.lg_w-50p
+          h2.fln.text-7 Tarifs
+          .fln.text-5.py-2.flcnw.flc
+            .py-0
+              .inline.bold.green 2 journées 
+              span de formation
+            .py-0
+              span + 
+              .inline.bold.green 1 journée 
+              span de suivi
+            .py-0
+              span pour 
+              .inline.bold.green 4 à 6 personnes
+          .text-center.text-7.bold.orange 7500€ HT
+        .fln.flcnw.w-100p.lg_w-50p.mt-2.lg_mt-0
+          h2.fln.text-7.hidden.lg_block Contact
+          .fln.flrnw.mt-1.lg_mt-5.flc
+            a.text-6.sm_text-7.bold.blue(href="mailto:tim@pixelastic.com") tim@pixelastic.com
 
 

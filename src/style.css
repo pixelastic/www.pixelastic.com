@@ -1,14 +1,26 @@
 @import "_styles/tailwind.css";
 
-h1 {
-  @apply text-8;
+html { 
+  @apply h-100vh; 
 }
-h2 {
-  @apply text-6;
+body { 
+  @apply h-100p min-h-100vh;
+  overflow-x: hidden;
 }
-h3 {
-  @apply text-4;
+
+#menu_checkbox:checked ~ #menu_content {
+  @apply flex;
 }
-a:hover {
+
+/* h1 { */
+/*   @apply text-8; */
+/* } */
+/* h2 { */
+/*   @apply text-6; */
+/* } */
+/* h3 { */
+/*   @apply text-4; */
+/* } */
+._content a:hover {
   @apply underline;
 }

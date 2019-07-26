@@ -1,0 +1,22 @@
+extends _includes/layout
+
+block config
+  - page.description = "Open-Source projects I worked on"
+
+block content
+  .container.mx-auto
+    .flrw
+      each project in projects
+        .p-2.fln.w-50p
+          .blue.text-4.bold=project.name
+          .flrnw
+            .fln.w-50p.p-2.flcnw
+              .fln=project.description
+              .flrnw
+                .fln.p-1
+                  a(href=project.source, title='See source on GitHub')
+                   include /_includes/github_svg
+                .fln.p-1
+                  a(href=project.url, title='See it live') LIVE
+            .fln.w-50p.flrnw.flc
+              .bg-gray-4.rounded-4.w-11.h-11 Image

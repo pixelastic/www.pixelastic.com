@@ -3,7 +3,6 @@
   "bugs": {
     "url": "https://github.com/pixelastic/www.pixelastic.com/issues"
   },
-  "dependencies": {},
   "description": "Tim Carry's (@pixelastic) website",
   "devDependencies": {
     "aberlaas": "0.1.8",

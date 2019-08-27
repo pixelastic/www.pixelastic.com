@@ -1,4 +1,4 @@
 [
   { "name": "twitter", "type": "text" },
-  { "name": "website", "type": "text" },
+  { "name": "website", "type": "text" }
 ]

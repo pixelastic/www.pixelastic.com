@@ -5,7 +5,12 @@
     { "name": "name", "type": "text" },
     { "name": "url", "type": "text" },
     { "name": "description", "type": "textarea" },
-    { "name": "screenshot", "type": "upload" },
+    { 
+      "name": "screenshot", 
+      "type": "upload",
+      "uploadDirectory": "images/projects",
+      "uploadBasename": "{name}"
+    },
     { "name": "source", "type": "text" }
   ]
 }

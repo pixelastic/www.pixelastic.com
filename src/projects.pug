@@ -5,18 +5,24 @@ block config
 
 block content
   .container.mx-auto
-    .flrw
+    .flrw.p-2
       each project in projects
-        .p-2.fln.w-50p
-          .blue.text-4.bold=project.name
-          .flrnw
-            .fln.w-50p.p-2.flcnw
-              .fln=project.description
-              .flrnw
-                .fln.p-1
-                  a(href=project.source, title='See source on GitHub')
-                   include /_includes/github_svg
-                .fln.p-1
-                  a(href=project.url, title='See it live') LIVE
-            .fln.w-50p.flrnw.flc
-              .bg-gray-4.rounded-4.w-11.h-11 Image
+        .fln.w-100p.xl_w-50p.xl_pr-2.pb-2.flrnw
+          .bg-gray-8.border.border-gray-6.rounded.fla
+            a.block.h-14.bg-contain.bg-center.bg-no-repeat(style=`background-image:url(${project.screenshot})`, href=project.url)
+            .p-2
+              a.blue.text-4.bold.hover_underline(href=project.url)=project.name
+              .py-1.text-2=project.description
+
+          // .flrnw
+          //   .fln.w-50p.flcnw
+          //     .fln=project.description
+          //     .flrnw
+          //       .fln.p-1
+          //         a(href=project.source, title='See source on GitHub')
+          //          include /_includes/github_svg
+          //       .fln.p-1
+          //         a(href=project.url, title='See it live') LIVE
+          //   .fln.w-50p.flrnw.flc
+          //     .bg-gray-4.rounded-4.w-11.h-11
+          //       img(src=project.screenshot)

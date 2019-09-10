@@ -3,14 +3,14 @@
   "displayKey": "name",
   "itemSchema": [
     { "name": "name", "type": "text" },
-    { "name": "url", "type": "text" },
     { "name": "description", "type": "textarea" },
+    { "name": "url", "type": "text" },
+    { "name": "source", "type": "text" },
     { 
       "name": "screenshot", 
       "type": "upload",
       "uploadDirectory": "images/projects",
       "uploadBasename": "{name}"
-    },
-    { "name": "source", "type": "text" }
+    }
   ]
 }

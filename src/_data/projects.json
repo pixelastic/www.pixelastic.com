@@ -2,162 +2,140 @@
   {
     "description": "Flags of the world with only one div in CSS",
     "name": "CSS Flags",
+    "screenshot": "images/projects/cssFlags.png",
     "source": "https://github.com/pixelastic/css-flags",
     "url": "https://pixelastic.github.io/css-flags/"
   },
   {
     "description": "Are Akiban, Arbok, Mukubird and Summingbird Pokemon names or Big Data technology ?",
     "name": "Is it Pokemon or Big Data ?",
+    "screenshot": "images/projects/isItPokemonOrBigData.png",
     "source": "https://github.com/pixelastic/pokemonorbigdata",
     "url": "http://pixelastic.github.io/pokemonorbigdata/"
   },
   {
     "description": "Searchable list of all Marvel superheroes and supervillains ",
     "name": "Marvel Search",
+    "screenshot": "images/projects/marvelSearch.png",
     "source": "https://github.com/algolia/marvel-search",
     "url": "https://community.algolia.com/marvel-search/"
   },
   {
-    "description": "Searchable list of all the past conferences of ParisWeb",
-    "name": "ParisWeb Search",
-    "source": "https://github.com/pixelastic/parisweb/",
-    "url": "https://pixelastic.github.io/parisweb/"
-  },
-  {
-    "description": "Searchable list of all HumanTalks Paris talks",
-    "name": "HumanTalks Search",
-    "source": "https://github.com/pixelastic/humantalks",
-    "url": "https://pixelastic.github.io/humantalks/"
-  },
-  {
-    "description": "Pick a meetup event attendee at random in the list of register users.",
-    "name": "Random Meetup Attendee Picker",
-    "source": "https://github.com/pixelastic/meetup-random-user",
-    "url": "https://pixelastic.github.io/meetup-random-user/"
-  },
-  {
-    "description": "Web app to help me as a Game Master to quickly generate ideas from improvisation seeds.",
-    "name": "dungeon-helper",
-    "source": "https://github.com/pixelastic/dungeon-helper",
-    "url": "http://pixelastic.github.io/dungeon-helper/"
-  },
-  {
-    "description": "Display any image in the terminal, using unicode and ANSI color codes.",
-    "name": "img2term",
-    "source": "https://github.com/pixelastic/img2term",
-    "url": "http://pixelastic.github.io/img2term/"
-  },
-  {
-    "description": "JSON list of fake users, along with names, address, birthday and picture.",
-    "name": "Fake users",
-    "source": "https://github.com/pixelastic/fakeusers",
-    "url": "https://github.com/pixelastic/fakeusers"
-  },
-  {
     "description": "Search in all the Sherlock Holmes books",
     "name": "Sherlock Search",
+    "screenshot": "images/projects/sherlockSearch.png",
     "source": "https://github.com/pixelastic/sherlock-search",
     "url": "https://pixelastic.github.io/sherlock-search/"
   },
   {
     "description": "The dotCSS logo in one single <code>&lt;div&gt;</code>",
     "name": "dotCSS onediv",
+    "screenshot": "images/projects/dotCssOnediv.png",
     "source": "https://github.com/pixelastic/dotcss-onediv",
     "url": "https://pixelastic.github.io/dotcss-onediv/"
   },
   {
-    "description": "French translation of <a href=\"https://twitter.com/mdo/\">@mdo</a> HTML and CSS style guide.",
-    "name": "Guide de code par @mdo",
-    "source": "https://github.com/pixelastic/code-guide",
-    "url": "http://pixelastic.github.io/code-guide/"
-  },
-  {
     "description": "Generate a random programming excuse from the commandline.",
     "name": "programmingexcuses.sh",
+    "screenshot": null,
     "source": "https://github.com/pixelastic/programmingexcuses.sh",
     "url": "https://github.com/pixelastic/programmingexcuses.sh"
   },
   {
-    "description": "Learn HTTP Status Code using cats and Anki.",
-    "name": "Anki HTTP Status Cat Deck",
-    "source": "https://github.com/pixelastic/anki-http-status-cats",
-    "url": "https://github.com/pixelastic/anki-http-status-cats"
-  },
-  {
-    "description": "Commandline tool to get the closest hexadecimal value of a Pantone color.",
-    "name": "pantone2hex",
-    "source": "https://github.com/pixelastic/pantone2hex",
-    "url": "https://github.com/pixelastic/pantone2hex"
-  },
-  {
-    "description": "Convert any .jpg or .png to a single CSS div.",
-    "name": "img2css",
-    "source": "https://github.com/pixelastic/img2css",
-    "url": "http://pixelastic.github.io/img2css/"
+    "description": "Display any image in the terminal, using unicode and ANSI color codes.",
+    "name": "img2term",
+    "screenshot": "images/projects/img2Term.png",
+    "source": "https://github.com/pixelastic/img2term",
+    "url": "https://github.com/pixelastic/img2term"
   },
   {
     "description": "Ruby gem to generate acronyms from strings.",
     "name": "acronyms",
+    "screenshot": null,
     "source": "https://github.com/pixelastic/acronyms",
     "url": "https://github.com/pixelastic/acronyms"
   },
   {
     "description": "Convert any arbitrary string into one that can be used for an HTML anchor",
     "name": "anchorrb",
+    "screenshot": null,
     "source": "https://github.com/pixelastic/anchorrb",
     "url": "https://github.com/pixelastic/anchorrb"
   },
   {
+    "description": "Searchable list of all the past conferences of ParisWeb",
+    "name": "ParisWeb Search",
+    "screenshot": "images/projects/parisWebSearch.png",
+    "source": "https://github.com/pixelastic/parisweb/",
+    "url": "https://pixelastic.github.io/parisweb/"
+  },
+  {
+    "description": "Searchable list of all HumanTalks Paris talks",
+    "name": "HumanTalks Search",
+    "screenshot": "images/projects/humanTalksSearch.png",
+    "source": "https://github.com/pixelastic/humantalks",
+    "url": "https://pixelastic.github.io/humantalks/"
+  },
+  {
+    "description": "Pick a meetup event attendee at random in the list of register users.",
+    "name": "Random Meetup Attendee Picker",
+    "screenshot": "images/projects/randomMeetupAttendeePicker.png",
+    "source": "https://github.com/pixelastic/meetup-random-user",
+    "url": "https://pixelastic.github.io/meetup-random-user/"
+  },
+  {
+    "description": "Web app to help me as a Game Master to quickly generate ideas from improvisation seeds.",
+    "name": "dungeon-helper",
+    "screenshot": "images/projects/dungeonHelper.png",
+    "source": "https://github.com/pixelastic/dungeon-helper",
+    "url": "http://pixelastic.github.io/dungeon-helper/"
+  },
+  {
+    "description": "JSON list of fake users, along with names, address, birthday and picture.",
+    "name": "Fake users",
+    "screenshot": null,
+    "source": "https://github.com/pixelastic/fakeusers",
+    "url": "https://github.com/pixelastic/fakeusers"
+  },
+  {
+    "description": "French translation of <a href=\"https://twitter.com/mdo/\">@mdo</a> HTML and CSS style guide.",
+    "name": "Guide de code par @mdo",
+    "screenshot": "images/projects/guideDeCodeParMdo.png",
+    "source": "https://github.com/pixelastic/code-guide",
+    "url": "http://pixelastic.github.io/code-guide/"
+  },
+  {
+    "description": "Commandline tool to get the closest hexadecimal value of a Pantone color.",
+    "name": "pantone2hex",
+    "screenshot": null,
+    "source": "https://github.com/pixelastic/pantone2hex",
+    "url": "https://github.com/pixelastic/pantone2hex"
+  },
+  {
+    "description": "Convert any .jpg or .png to a single CSS div.",
+    "name": "img2css",
+    "screenshot": null,
+    "source": "https://github.com/pixelastic/img2css",
+    "url": "http://pixelastic.github.io/img2css/"
+  },
+  {
     "description": "Download a json version of a Youtube playlist",
     "name": "playlist2json",
+    "screenshot": null,
     "source": "https://github.com/pixelastic/playlist2json",
     "url": "https://github.com/pixelastic/playlist2json"
   },
   {
-    "description": "Emulate CSS <code>position:sticky</code> in Angular for browsers that do not support it.",
-    "name": "Angular sticky directive",
-    "source": "https://github.com/pixelastic/angular-sticky-directive",
-    "url": "https://github.com/pixelastic/angular-sticky-directive"
-  },
-  {
     "description": "Export your dconf settings as an editable .sh file.",
     "name": "dconf-export",
+    "screenshot": null,
     "source": "https://github.com/pixelastic/dconf-export",
     "url": "https://github.com/pixelastic/dconf-export"
   },
   {
-    "description": "Split a monolithic vcard file into several files, one for each contact.",
-    "name": "vcf-split",
-    "source": "https://github.com/pixelastic/vcf-split",
-    "url": "https://github.com/pixelastic/vcf-split"
-  },
-  {
-    "description": "Save vim undo files as /path/to/file instead of %path%to%file for theses times when you hit your OS max length on filenames.",
-    "name": "vim-undodir-tree",
-    "source": "https://github.com/pixelastic/vim-undodir-tree",
-    "url": "https://github.com/pixelastic/vim-undodir-tree"
-  },
-  {
-    "description": "Guide de bonnes pratiques de développement front, pour la tribu WEBF d'Octo Technology.",
-    "name": "Guidelines pour les développeurs front-end",
-    "source": "https://github.com/pixelastic/octo-webf-guidelines",
-    "url": "http://pixelastic.github.io/octo-webf-guidelines/"
-  },
-  {
-    "description": "Commandline Choose Your Own Adventure game. In French.",
-    "name": "herbert",
-    "source": "https://github.com/pixelastic/herbert",
-    "url": "https://github.com/pixelastic/herbert"
-  },
-  {
-    "description": "Change the FPS of a subtitle file.",
-    "name": "horst",
-    "source": "https://github.com/pixelastic/horst",
-    "url": "https://github.com/pixelastic/horst"
-  },
-  {
     "description": "SQL dump of all the french cities.",
     "name": "sql-french-cities",
+    "screenshot": null,
     "source": "https://github.com/pixelastic/sql-french-cities",
     "url": "https://github.com/pixelastic/sql-french-cities"
   }

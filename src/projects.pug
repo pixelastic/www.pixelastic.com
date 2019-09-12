@@ -1,15 +1,20 @@
 extends _includes/layout
 
 block config
-  - page.description = "Open-Source projects I worked on"
+  - data.page.description = "Open-Source projects I worked on"
 
 block content
   .container.mx-auto
     .flrw.p-2
-      each project in projects
+      each project in data.projects
         .fln.w-100p.xl_w-50p.xl_pr-2.pb-2.flrnw
-          .bg-gray-8.border.border-gray-6.rounded.fla
-            a.block.h-14.bg-contain.bg-center.bg-no-repeat(style=`background-image:url(${project.screenshot})`, href=project.url)
+          .bg-gray-8.border.border-gray-6.rounded.fla.overflow-hidden
+            if project.screenshot
+              a.block.h-14.bg-cover.bg-top.bg-no-repeat(style=`background-image:url(${project.screenshot})`, href=project.url)
+            else
+              - const content = include(`_includes/projects/${project.name}.pug`);
+              a.block.h-14(href=project.url) !{content}
+
             .p-2
               a.blue.text-4.bold.hover_underline(href=project.url)=project.name
               .py-1.text-2=project.description

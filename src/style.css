@@ -1,9 +1,9 @@
 @import "_styles/tailwind.css";
 
-html { 
-  @apply h-100vh; 
+html {
+  @apply h-100vh;
 }
-body { 
+body {
   @apply h-100p min-h-100vh;
 }
 
@@ -15,5 +15,23 @@ body {
 ._content {
   a:hover {
     @apply underline;
+  }
+}
+
+.hljs {
+  .hljs-attr { @apply green-5; }
+  .hljs-built_in { @apply green; }
+  .hljs-comment { @apply gray-6; }
+  .hljs-keyword { @apply green; }
+  .hljs-meta { @apply orange; }
+  .hljs-number { @apply blue-5 bold; }
+  .hljs-tag { @apply green; }
+  .hljs-string { @apply blue-6; }
+  &.language-html {
+    .hljs-attr { @apply red-5; }
+  }
+  &.language-shell {
+    @apply blue-6;
+    .bash { @apply gray-4; }
   }
 }

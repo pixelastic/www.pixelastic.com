@@ -8,26 +8,13 @@ block content
     .flrw.p-2
       each project in data.projects
         .fln.w-100p.xl_w-50p.xl_pr-2.pb-2.flrnw
-          .bg-gray-8.border.border-gray-6.rounded.fla.overflow-hidden
+          a.block.bg-gray-3.border.border-gray-6.rounded.fla.overflow-hidden(href=project.url)
             if project.screenshot
-              a.block.h-14.bg-cover.bg-top.bg-no-repeat(style=`background-image:url(${project.screenshot})`, href=project.url)
+              .block.h-14.bg-cover.bg-top.bg-no-repeat(style=`background-image:url(${revv(project.screenshot)})`, href=project.url)
             else
               - const content = include(`_includes/projects/${project.name}.pug`);
-              a.block.h-14(href=project.url) !{content}
+              .block.h-14(href=project.url) !{content}
 
             .p-2
-              a.blue.text-4.bold.hover_underline(href=project.url)=project.name
-              .py-1.text-2=project.description
-
-          // .flrnw
-          //   .fln.w-50p.flcnw
-          //     .fln=project.description
-          //     .flrnw
-          //       .fln.p-1
-          //         a(href=project.source, title='See source on GitHub')
-          //          include /_includes/github_svg
-          //       .fln.p-1
-          //         a(href=project.url, title='See it live') LIVE
-          //   .fln.w-50p.flrnw.flc
-          //     .bg-gray-4.rounded-4.w-11.h-11
-          //       img(src=project.screenshot)
+              .blue.text-5.bold.hover_underline=project.name
+              .py-1.text-2.black=project.description

@@ -1,6 +1,6 @@
 [
   {
-    "description": "Flags of all nations of the world, with only one <div> and only CSS",
+    "description": "Flags of all nations of the world, with only one <div> and CSS",
     "name": "CSS Flags",
     "screenshot": "images/projects/cssFlags.png",
     "url": "https://pixelastic.github.io/css-flags/"
@@ -13,7 +13,7 @@
   },
   {
     "description": "Are Akiban, Arbok, Mukubird and Summingbird Pokemon names or Big Data technology?",
-    "name": "Is it Pokemon or Big Data ?",
+    "name": "Is it Pokemon or Big Data?",
     "screenshot": "images/projects/isItPokemonOrBigData.png",
     "url": "http://pixelastic.github.io/pokemonorbigdata/"
   },
@@ -54,58 +54,40 @@
     "url": "https://pixelastic.github.io/meetup-random-user/"
   },
   {
-    "description": "x My dotfiles repo. zsh, vim, git and more config and aliases",
+    "description": "My dotfiles repo. zsh, vim, git and more config and aliases",
     "name": "oroshi",
     "screenshot": "",
     "url": "https://github.com/pixelastic/oroshi"
   },
   {
-    "description": "> Collection of methods to manipulate files on disk",
+    "description": "Collection of methods to manipulate files on disk",
     "name": "firost",
     "screenshot": "",
     "url": "https://github.com/pixelastic/firost"
   },
   {
-    "description": "⛰️ Scaffolding npm projects with build, test, lint and release scripts",
+    "description": "Scaffolding npm projects with build, test, lint and release scripts",
     "name": "aberlaas",
     "screenshot": "",
     "url": "https://github.com/pixelastic/aberlaas"
   },
   {
-    "description": "Ω Meta-package including all the libs I always need (lodash, pify, etc)",
+    "description": "Meta-package including all the libs I always need (lodash, pify, etc)",
     "name": "golgoth",
     "screenshot": "",
     "url": "https://github.com/pixelastic/golgoth"
   },
   {
-    "description": "🏔️ My own SSG (Static Site Generator)",
+    "description": "My own SSG (Static Site Generator)",
     "name": "norska",
     "screenshot": "",
     "url": "https://github.com/pixelastic/norska"
   },
   {
-    "description": "π Utilities to split PDF files into smaller files, generate thumbnails and extract textual content.",
+    "description": "Utilities to split PDF files into smaller files, generate thumbnails and extract textual content.",
     "name": "pietro",
     "screenshot": "",
     "url": "https://github.com/pixelastic/pietro"
-  },
-  {
-    "description": "JSON list of fake users, along with names, addresses, birthdays and pictures",
-    "name": "fakeusers",
-    "screenshot": "",
-    "url": "https://github.com/pixelastic/fakeusers"
-  },
-  {
-    "description": "Ruby gem to generate acronyms from strings",
-    "name": "acronyms",
-    "screenshot": "",
-    "url": "https://github.com/pixelastic/acronyms"
-  },
-  {
-    "description": "Ruby gem to convert any arbitrary to an HTML anchor",
-    "name": "anchorrb",
-    "screenshot": "",
-    "url": "https://github.com/pixelastic/anchorrb"
   },
   {
     "description": "Generate a random programming excuse from the commandline",
@@ -118,6 +100,18 @@
     "name": "img2term",
     "screenshot": "images/projects/img2Term.png",
     "url": "https://github.com/pixelastic/img2term"
+  },
+  {
+    "description": "Ruby gem to generate acronyms from strings",
+    "name": "acronyms",
+    "screenshot": "",
+    "url": "https://github.com/pixelastic/acronyms"
+  },
+  {
+    "description": "Ruby gem to convert any arbitrary to an HTML anchor",
+    "name": "anchorrb",
+    "screenshot": "",
+    "url": "https://github.com/pixelastic/anchorrb"
   },
   {
     "description": "SQL dump of all the french cities.",
@@ -148,6 +142,12 @@
     "name": "dconf-export",
     "screenshot": "",
     "url": "https://github.com/pixelastic/dconf-export"
+  },
+  {
+    "description": "JSON list of fake users, along with names, addresses, birthdays and pictures",
+    "name": "fakeusers",
+    "screenshot": "",
+    "url": "https://github.com/pixelastic/fakeusers"
   },
   {
     "description": "Search into all ParisWeb conferences from 2006 to 2015",

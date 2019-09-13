@@ -7,7 +7,7 @@ html(lang='en')
   head
     meta(charset='utf-8')
     meta('http-equiv'='x-ua-compatible',content='ie-edge')
-    base(href=url.base)
+    // base(href=url.base)
     title=data.page.title
     meta(name='viewport', content='width=device-width, initial-scale=1.0, shrink-to-fit=no')
     meta(name='description', content=data.page.description)
@@ -19,11 +19,11 @@ html(lang='en')
     meta(property='og:description', content=data.page.description)
     meta(property='og:image', content=data.page.image)
     link(rel="shortcut icon", href="/favicon.ico")
-    link(type="text/css", rel="stylesheet", href="/style.css")
+    link(type="text/css", rel="stylesheet", href=revv("/style.css"))
     body.bg-gray-9
       include /_includes/header
 
       .mt-8.white.z-0.h-100p
         block content
-        script(src="/script.js")
+        script(src=revv("/script.js"))
 

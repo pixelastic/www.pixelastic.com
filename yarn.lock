@@ -6569,10 +6569,10 @@ normalize.css@^8.0.1:
   resolved "https://registry.yarnpkg.com/normalize.css/-/normalize.css-8.0.1.tgz#9b98a208738b9cc2634caacbc42d131c97487bf3"
   integrity sha512-qizSNPO93t1YUuUhP22btGOo3chcvDFqFaj2TRybP0DMxkHOCTYwp3n34fel4a31ORXy4m1Xq0Gyqpb5m33qIg==
 
-norska-assets@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/norska-assets/-/norska-assets-0.5.0.tgz#5f213df409c98f49aebf689b81df675a702b1a1e"
-  integrity sha512-4X0nmtY6N/l3zMQaRtIdMr8cWCSbCogFi4r6UrCbsftwkrxO0YBWvjjqPq4eJb2Lx4GCQTOn22bVdf50sSg7vQ==
+norska-assets@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/norska-assets/-/norska-assets-0.5.1.tgz#12721f4be0588616f3082e7aaa3e64555069913b"
+  integrity sha512-BpWWzL4xeMpJ+YnKqnniPRvp7yo2s7l3kr08Z0br10z9VH3n9UqFV7aR+6WzgfgsR1QX09gjmVZ5B846RGCnfw==
   dependencies:
     golgoth "^0.3.2"
     norska-config "^0.5.0"
@@ -6685,16 +6685,16 @@ norska-revv@^0.5.0:
     norska-helper "^0.5.0"
     rev-hash "^3.0.0"
 
-norska@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/norska/-/norska-0.5.0.tgz#b34c83aec8c77349e528f5f4517be4c489dc532c"
-  integrity sha512-iGoIXBhqBvinR2zSnQ7yVMKZNupZ6kQ8wZnK+rfhFW3tr3CpLkDBS3tVlRQQbNArVyQkPCngvVC7KzRYhtq3Tw==
+norska@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/norska/-/norska-0.5.1.tgz#f801ae7bfaea49ab1395e728acbe5ccd7a284271"
+  integrity sha512-cQl9EiRPJnZ1NBQ4pN1KOijGCyhvJYq0Hxgf2Wru45oHfbvtMVJZuw/SzXnY12gOogG3gIENguzcOF2/7LkeQw==
   dependencies:
     firost "^0.13.0"
     golgoth "^0.3.2"
     live-server "1.2.1"
     minimist "1.2.0"
-    norska-assets "^0.5.0"
+    norska-assets "^0.5.1"
     norska-cms "^0.5.0"
     norska-config "^0.5.0"
     norska-css "^0.5.0"

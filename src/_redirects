@@ -1,8 +1,17 @@
+# Rickrolling hacking attempts
+/wp-login.php https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+# Old blog was on /blog, now on its own subdomain
 /blog/              http://blog.pixelastic.com/
 /blog/archive/*     http://blog.pixelastic.com/archive/:splat
-/blog/tags/:tag.rss http://blog.pixelastic.com/feed.xml
-/blog/tags/:tag     http://blog.pixelastic.com/tags/:tag
+/blog/tags/*        http://blog.pixelastic.com/tags/:splat
 
+# RSS feed is now one feed
+/blog.rss           http://blog.pixelastic.com/feed.xml
+/fre/blog.rss       http://blog.pixelastic.com/feed.xml
+/blog/tags/*.rss    http://blog.pixelastic.com/feed.xml
+
+# All manual old links from Caracole version to Jekyll version
 /blog/1:* http://blog.pixelastic.com/2009/02/14/ouverture/
 /blog/2:* http://blog.pixelastic.com/2009/02/15/caracole/
 /blog/4:* http://blog.pixelastic.com/2009/02/16/caracole-brouillons/

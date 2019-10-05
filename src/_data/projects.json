@@ -24,6 +24,12 @@
     "url": "https://community.algolia.com/marvel-search/"
   },
   {
+    "description": "Searchable list of all the Pathfinder Society scenarios",
+    "name": "Pathfinder Society Search",
+    "screenshot": "images/projects/pathfinderSocietySearch.png",
+    "url": "https://gamemaster.pixelastic.com/society/"
+  },
+  {
     "description": "Add fast and relevant Algolia search to a Jekyll website",
     "name": "Algolia for Jekyll",
     "screenshot": "images/projects/algoliaForJekyll.png",

@@ -5,7 +5,7 @@
   },
   "description": "Tim Carry's (@pixelastic) website",
   "devDependencies": {
-    "aberlaas": "^0.4.8",
+    "aberlaas": "0.6.7",
     "firost": "^0.13.0",
     "golgoth": "^0.3.3",
     "norska": "^0.5.1"
@@ -17,17 +17,14 @@
     "url": "git@github.com:pixelastic/www.pixelastic.com.git"
   },
   "scripts": {
-    "cms": "./scripts/cms",
     "build": "./scripts/build",
     "build:prod": "NODE_ENV=production ./scripts/build",
     "build:watch": "./scripts/serve",
+    "cms": "./scripts/cms",
+    "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
-    "lint:css": "./scripts/lint-css",
-    "lint:css:fix": "./scripts/lint-css-fix",
     "lint:fix": "./scripts/lint-fix",
-    "lint:js": "./scripts/lint-js",
-    "lint:js:fix": "./scripts/lint-js-fix",
-    "lint:json": "./scripts/lint-json",
+    "release": "./scripts/release",
     "serve": "./scripts/serve",
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"

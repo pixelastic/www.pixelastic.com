@@ -1352,10 +1352,10 @@ abbrev@1:
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
 
-aberlaas@0.6.7:
-  version "0.6.7"
-  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-0.6.7.tgz#cc956e7bd2361f1bc79906d07b0f88a40b0be55e"
-  integrity sha512-LAfYpRELPBwxnRofyLQG6BA/PENIlKu+BkKQ1R9RwDvVBUS0jj9QNbZsjUV+VeYz1+aUVs61gAMV3/tBM/ds5A==
+aberlaas@0.6.9:
+  version "0.6.9"
+  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-0.6.9.tgz#7b0835f9dd1c904d4e09b5bbee566299fdad14bf"
+  integrity sha512-EYmC9vcu3C6vMElXOthJxooyA8t9wyahzcM+hWeMsjInxL45kAfEtDO63RPufoA9yyYULIZvya/I0ALpUq1yCw==
   dependencies:
     "@babel/cli" "^7.6.0"
     "@babel/core" "^7.6.0"

@@ -4701,24 +4701,6 @@ golgoth@0.3.0:
     query-string "6.2.0"
     time-span "3.1.0"
 
-golgoth@0.3.3, golgoth@^0.3.2:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.3.3.tgz#25db7b2a6880014b2c97e626463f0323b403673d"
-  integrity sha512-1kEmIjvAJTdiesA65DGpFRRwQXbRo2uteT7+ZT2I/4VpK6rAb8Av+pEmsGd4+SpVtKb8q8QX28gIRDZVeNngUw==
-  dependencies:
-    chalk "2.4.1"
-    dayjs "1.7.7"
-    flat "4.1.0"
-    got "9.3.2"
-    lodash "^4.17.15"
-    ora "3.0.0"
-    p-all "1.0.0"
-    p-map "2.0.0"
-    p-map-series "1.0.0"
-    pify "4.0.1"
-    query-string "6.2.0"
-    time-span "3.1.0"
-
 golgoth@0.4.2:
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.4.2.tgz#66c1c5202bbe58bd35c54ce95a7056046dc895e8"
@@ -4728,6 +4710,24 @@ golgoth@0.4.2:
     dayjs "1.8.16"
     flat "4.1.0"
     got "9.6.0"
+    lodash "^4.17.15"
+    ora "3.0.0"
+    p-all "1.0.0"
+    p-map "2.0.0"
+    p-map-series "1.0.0"
+    pify "4.0.1"
+    query-string "6.2.0"
+    time-span "3.1.0"
+
+golgoth@^0.3.2:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.3.3.tgz#25db7b2a6880014b2c97e626463f0323b403673d"
+  integrity sha512-1kEmIjvAJTdiesA65DGpFRRwQXbRo2uteT7+ZT2I/4VpK6rAb8Av+pEmsGd4+SpVtKb8q8QX28gIRDZVeNngUw==
+  dependencies:
+    chalk "2.4.1"
+    dayjs "1.7.7"
+    flat "4.1.0"
+    got "9.3.2"
     lodash "^4.17.15"
     ora "3.0.0"
     p-all "1.0.0"

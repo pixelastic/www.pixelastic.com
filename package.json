@@ -5,7 +5,7 @@
   },
   "description": "Tim Carry's (@pixelastic) website",
   "devDependencies": {
-    "aberlaas": "0.6.9",
+    "aberlaas": "0.6.10",
     "firost": "0.15.0",
     "golgoth": "0.4.2",
     "norska": "0.5.10"

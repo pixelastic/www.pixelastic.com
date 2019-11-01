@@ -4280,10 +4280,10 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
-firost@0.15.0:
-  version "0.15.0"
-  resolved "https://registry.yarnpkg.com/firost/-/firost-0.15.0.tgz#6fa39dbceae7b50b28789073ca628687f7e6548e"
-  integrity sha512-1AP2p2Zw5Dwg0Nla1o77DOuO14b042gOqVQeXPEC9S+dAgbKkzOAP4dY0N+8xECu1Ox22m3vM6OPqDWcXIk38Q==
+firost@0.16.0:
+  version "0.16.0"
+  resolved "https://registry.yarnpkg.com/firost/-/firost-0.16.0.tgz#283c5a3ef1ce7353ad329548ea49587c966867b7"
+  integrity sha512-3nxa++AQ860w1mc8XkdQN79oPtmT5NuaSiuMzOnr92lMT8+6VbgErAO8UJex3qcZI0lT76VliT8GC8QtVQ9X+Q==
   dependencies:
     chokidar "3.2.1"
     esm "^3.2.25"

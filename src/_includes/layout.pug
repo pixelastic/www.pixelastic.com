@@ -24,6 +24,6 @@ html(lang='en')
 
       .mt-8.white.z-0.h-100p
         block content
-        each jsFile in files.js
-          script(src=`./${jsFile}`)
+        each jsFile in runtime.jsFiles
+          script(src=`${url.pathToRoot}${jsFile}`)
 

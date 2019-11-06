@@ -96,6 +96,18 @@
     "url": "https://github.com/pixelastic/pietro"
   },
   {
+    "description": "Tool to build slides in HTML",
+    "name": "steppe",
+    "screenshot": "",
+    "url": "https://github.com/pixelastic/steppe"
+  },
+  {
+    "description": "Crawling of Wiki pages made easier",
+    "name": "aoinan",
+    "screenshot": "",
+    "url": "https://github.com/pixelastic/aoinan"
+  },
+  {
     "description": "Generate a random programming excuse from the commandline",
     "name": "programmingexcuses.sh",
     "screenshot": "",

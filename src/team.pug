@@ -1,0 +1,15 @@
+extends _includes/layout
+
+block config
+ - data.page.description = "I'm a developer, speaker, public speaking coach, hacker, player, and gamemaster."
+
+block content
+  .h-100p.mt-4.flcnw.bg-white
+    .flrw.bg-white.fln
+      for url in data.team.active
+        .fla.p-1.flrnw.flc.w-25p
+          img.w-13.rounded-full(src=url)
+    .flrw.bg-white.fln.mt-4
+      for url in data.team.dead
+        .fla.flrnw.flc
+          img.h-10.grayscale.opacity-50p.rounded-full(src=url)

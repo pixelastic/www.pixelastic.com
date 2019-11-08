@@ -1,0 +1,11 @@
+extends _includes/layout
+
+block config
+ - data.page.description = "I'm a developer, speaker, public speaking coach, hacker, player, and gamemaster."
+
+block content
+  .h-100p.mt-4
+    .flrw.bg-white
+      for logo in data.logos
+        .fla.p-1
+          img.max-h-7.min-w-7(src=logo)

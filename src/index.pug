@@ -1,7 +1,7 @@
-extends _includes/layout
+extends /_includes/_layouts/core
 
 block config
- - data.page.description = "I'm a developer, speaker, public speaking coach, hacker, player, and gamemaster."
+  - pageDescription = "Hi, I'm Tim Carry, aka. @pixelastic. I'm a developer, speaker, public speaking coach, hacker, player, and gamemaster."
 
 block content
   .container.mx-auto.flrnw.flc.h-100p
@@ -15,9 +15,9 @@ block content
           |, 
           a.blue-6(href="http://talks.pixelastic.com") speaker
           |, 
-          a.orange(href="/coaching.html") public speaking coach
+          a.orange(href="./coaching.html") public speaking coach
           |, 
-          a.green(href="http://projects.pixelastic.com") hacker
+          a.green(href="./projects.html") hacker
           |, 
           a.teal(href="http://videogames.pixelastic.com") player
           |, and 

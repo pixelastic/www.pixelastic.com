@@ -96,10 +96,10 @@
     "url": "https://github.com/pixelastic/pietro"
   },
   {
-    "description": "Tool to build slides in HTML",
-    "name": "steppe",
+    "description": "Generate slides with HTML and CSS",
+    "name": "sov",
     "screenshot": "",
-    "url": "https://github.com/pixelastic/steppe"
+    "url": "https://github.com/pixelastic/sov"
   },
   {
     "description": "Crawling of Wiki pages made easier",

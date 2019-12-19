@@ -26,10 +26,10 @@ html(lang='en')
     script!=tweaks.ensureUrlTrailingSlashSource
     link(rel="shortcut icon", href=`./favicon.png`)
     link(type="text/css", rel="stylesheet", href=revv(`${url.pathToRoot}style.css`))
-    body.bg-gray-9
+    body.bg-gray-9.pt-8
       include /_includes/header
 
-      .mt-8.white.z-0.h-base-100vh.h-crop-8
+      .white.z-0
         block content
       each jsFile in runtime.jsFiles
         script(src=`${url.pathToRoot}${jsFile}`)

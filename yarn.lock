@@ -6608,9 +6608,10 @@ norska-html@^0.5.28:
     norska-revv "^0.5.28"
     pug "2.0.3"
 
-norska-init@^0.5.28:
-  version "0.5.28"
-  resolved "https://registry.yarnpkg.com/norska-init/-/norska-init-0.5.28.tgz#76700f23d0dd8ebb5c940987f253cb74d218c078"
+norska-init@^0.5.33:
+  version "0.5.33"
+  resolved "https://registry.yarnpkg.com/norska-init/-/norska-init-0.5.33.tgz#aa0b7f4c021da8572c67af5ea6d97c98f9ae1983"
+  integrity sha512-JqeA+QFyuozaEPyrEYDrg4WLnn76owa1mJ9QPKQyyfKDadFnnWb2zJuh60VKGaSzwLxNTeUjFluFcJjchUdJzQ==
   dependencies:
     firost "0.19.2"
     golgoth "0.5.1"
@@ -6639,10 +6640,10 @@ norska-revv@^0.5.28:
     norska-helper "^0.5.25"
     rev-hash "^3.0.0"
 
-norska@0.5.32:
-  version "0.5.32"
-  resolved "https://registry.yarnpkg.com/norska/-/norska-0.5.32.tgz#98702a7bf5fdef56e9ece847f6f58b19a51dd6dc"
-  integrity sha512-8yp/spjEqHMSrP7dk0EQRyq8WIV/8Hnyuja/CEDjS2HuTpDT2rrKMiB/k9kv6024o9S8lp5qJk4EOGyMbyVrJw==
+norska@0.5.33:
+  version "0.5.33"
+  resolved "https://registry.yarnpkg.com/norska/-/norska-0.5.33.tgz#8af55c4c93e6032718871cf293ca3319b7a4ad75"
+  integrity sha512-awxDtER1MiEdTowOo5svdsRDL61Ff9dIskVan2CvFNwGtxkpEdU/rftwRW0GzHSjneXN6wbpBedkrOPkfcEh1A==
   dependencies:
     firost "0.19.2"
     golgoth "0.5.1"
@@ -6654,7 +6655,7 @@ norska@0.5.32:
     norska-css "^0.5.32"
     norska-helper "^0.5.25"
     norska-html "^0.5.28"
-    norska-init "^0.5.28"
+    norska-init "^0.5.33"
     norska-js "^0.5.30"
     norska-revv "^0.5.28"
 

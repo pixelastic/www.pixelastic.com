@@ -7,7 +7,7 @@
   "devDependencies": {
     "aberlaas": "0.10.9",
     "firost": "0.19.3",
-    "golgoth": "0.6.3",
+    "golgoth": "0.6.4",
     "norska": "0.5.33"
   },
   "files": [

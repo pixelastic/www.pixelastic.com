@@ -3126,10 +3126,6 @@ dateformat@^3.0.0:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/dateformat/-/dateformat-3.0.3.tgz#a6e37499a4d9a9cf85ef5872044d62901c9889ae"
 
-dayjs@1.8.17:
-  version "1.8.17"
-  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.8.17.tgz#53ec413f2a7b02afbea1846d61bb260fa8567cea"
-
 dayjs@1.8.18:
   version "1.8.18"
   resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.8.18.tgz#c9b3fcd5a8eca96ed20a907f4491516d6eda15c9"
@@ -4474,22 +4470,6 @@ golgoth@0.6.4:
     query-string "6.9.0"
     time-span "3.1.0"
 
-golgoth@^0.6.0:
-  version "0.6.2"
-  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.6.2.tgz#c0bcc20a4377a3563683e33ec70400c62f385639"
-  dependencies:
-    chalk "3.0.0"
-    dayjs "1.8.17"
-    flat "5.0.0"
-    got "9.6.0"
-    lodash "^4.17.15"
-    p-all "2.1.0"
-    p-map "3.0.0"
-    p-map-series "2.1.0"
-    pify "4.0.1"
-    query-string "6.9.0"
-    time-span "3.1.0"
-
 gonzales-pe@^4.2.4:
   version "4.2.4"
   resolved "https://registry.yarnpkg.com/gonzales-pe/-/gonzales-pe-4.2.4.tgz#356ae36a312c46fe0f1026dd6cb539039f8500d2"
@@ -4650,9 +4630,10 @@ hash.js@^1.0.0, hash.js@^1.0.3:
     inherits "^2.0.3"
     minimalistic-assert "^1.0.1"
 
-hex-rgb@^4.1.0:
+hex-rgb@4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/hex-rgb/-/hex-rgb-4.1.0.tgz#2d5d3a2943bd40e7dc9b0d5b98903d7d17035967"
+  integrity sha512-n7xsIfyBkFChITGPh6FLtxNzAt2HxZLcQIY9hYH4gm2gmMQJHMguMH3E+jnmvUbSTF5QrmFnGab5Ippi+D7e/g==
 
 highlight.js@^9.9.0:
   version "9.17.1"
@@ -6847,10 +6828,10 @@ norska-assets@^0.5.37:
     golgoth "0.6.4"
     norska-config "^0.5.37"
 
-norska-cms@^0.5.37:
-  version "0.5.37"
-  resolved "https://registry.yarnpkg.com/norska-cms/-/norska-cms-0.5.37.tgz#6f493c847d6848c59e56bda81de2b7b5601d4b33"
-  integrity sha512-ArVcotHD2TZHehupDU0HoboOkyu61VldlN8OYx8WmXZYzdvd5Qx929tWxq7xB3gesxQ6QTwYddBhrD4ddskb0g==
+norska-cms@^0.5.38:
+  version "0.5.38"
+  resolved "https://registry.yarnpkg.com/norska-cms/-/norska-cms-0.5.38.tgz#4617f5de42f2c808ab7562f1819d7e40bca7b9cb"
+  integrity sha512-X3LGCcmmhbu/jjXD3oXrQhH00k4c/7cIoc2HOmNOLYaJdsA9MDejv0JM20Oxi7MidTQiElwVd+xEnd0Ro50H4g==
   dependencies:
     connect-livereload "0.6.1"
     express "4.17.1"
@@ -6860,7 +6841,7 @@ norska-cms@^0.5.37:
     multer "1.4.2"
     nodemon "1.19.4"
     norska-config "^0.5.37"
-    norska-css "^0.5.37"
+    norska-css "^0.5.38"
     norska-helper "^0.5.34"
     open "6.4.0"
 
@@ -6872,10 +6853,10 @@ norska-config@^0.5.37:
     firost "0.21.0"
     golgoth "0.6.4"
 
-norska-css@^0.5.37:
-  version "0.5.37"
-  resolved "https://registry.yarnpkg.com/norska-css/-/norska-css-0.5.37.tgz#e51308e9bcdb6ff176b5a170dd03d8961923ef21"
-  integrity sha512-agRzDnHFhC8GtSH3M2Abqu5q7kYDPymZMGcq0TWtDdEOTWIARkje8cPiUGzG+bD/3/i+QQSXu3yADtHL6cFyXA==
+norska-css@^0.5.38:
+  version "0.5.38"
+  resolved "https://registry.yarnpkg.com/norska-css/-/norska-css-0.5.38.tgz#4f298ebfbc9f878840c90693b51085188767c523"
+  integrity sha512-wObC8G7qWuMvFGzUC6I/N6CFjqINSIWEC3/QmnF3GSbBPVT+jBvf4Q3JF3w8wboCLldnw0GNdFtVnlaoVkPKiA==
   dependencies:
     "@fullhuman/postcss-purgecss" "1.3.0"
     autoprefixer "9.7.4"
@@ -6888,7 +6869,7 @@ norska-css@^0.5.37:
     postcss-import "12.0.1"
     postcss-nested "4.2.1"
     purge-from-html "1.0.3"
-    tailwind-config-norska "0.0.8"
+    tailwind-config-norska "0.0.9"
     tailwindcss "1.1.4"
 
 norska-data@^0.5.37:
@@ -6957,19 +6938,19 @@ norska-revv@^0.5.37:
     norska-helper "^0.5.34"
     rev-hash "^3.0.0"
 
-norska@0.5.37:
-  version "0.5.37"
-  resolved "https://registry.yarnpkg.com/norska/-/norska-0.5.37.tgz#fe541fd67d9f9cae8072646ccb0fa01690f6942e"
-  integrity sha512-QkNQ5Nk+dkTdx179o+GIZJATwuxvM7WSgo2qjrnrWu0dDKrJRSirlaKOZmN0A5bZcTvPphDUK/SZZwXugO9Xwg==
+norska@0.5.38:
+  version "0.5.38"
+  resolved "https://registry.yarnpkg.com/norska/-/norska-0.5.38.tgz#be5fb2c854c97229de7a5cc073a18b0e9ab8789f"
+  integrity sha512-kvaRukJJFLRIHw8YLDS9OSl7HVTm5D7+t1D+TaBgVgGCq+bwR+Q8xMO0mIiNYoKelQHtHcPwRCVqRFkv7y0fuQ==
   dependencies:
     firost "0.21.0"
     golgoth "0.6.4"
     live-server "1.2.1"
     minimist "1.2.0"
     norska-assets "^0.5.37"
-    norska-cms "^0.5.37"
+    norska-cms "^0.5.38"
     norska-config "^0.5.37"
-    norska-css "^0.5.37"
+    norska-css "^0.5.38"
     norska-helper "^0.5.34"
     norska-html "^0.5.37"
     norska-init "^0.5.37"
@@ -9308,13 +9289,13 @@ table@^5.2.3, table@^5.4.6:
     slice-ansi "^2.1.0"
     string-width "^3.0.0"
 
-tailwind-config-norska@0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/tailwind-config-norska/-/tailwind-config-norska-0.0.8.tgz#9a10f64c4960c5c70a93d426bf51e64d13d6db13"
-  integrity sha512-so/ir8TpWgdxTxsUKz74LcmdwTTArTIGLZUOdLobI1IPDjH09XOWWIfWLJwgn+K09vyTXxksuz1wUJlEXvMj1A==
+tailwind-config-norska@0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/tailwind-config-norska/-/tailwind-config-norska-0.0.9.tgz#404245612b3c3c27c488bef1d54f78b4175e2297"
+  integrity sha512-jFDiPQLWz+4kaAQfycjz7VazLkn4X4NerNKMSDioztuYa/H4Dm8Fo9TVK1/MKVBxo8TVG3XutYG9UvSVk0OX2Q==
   dependencies:
-    golgoth "^0.6.0"
-    hex-rgb "^4.1.0"
+    golgoth "0.6.4"
+    hex-rgb "4.1.0"
 
 tailwindcss@1.1.4:
   version "1.1.4"

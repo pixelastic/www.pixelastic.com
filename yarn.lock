@@ -1500,10 +1500,10 @@ abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
 
-aberlaas@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-1.0.1.tgz#06bf5bf3010984a28e640b2d057f38453245ff97"
-  integrity sha512-Co6Iozfqi1BImiq31f1e60tqerOYCkKqlI7XCZQMqucCNTnaB+gotQ90XhFTc80OH42YHucoxtJ+4Phq02D8cg==
+aberlaas@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-1.0.2.tgz#9561eda681ac57a2d5a62ef38622cca4510937a4"
+  integrity sha512-9UusREV/f4hcDHgGIDhdRe18SsQc2rwgo2GDj4bAL/3w8+DMhs/k76FzN4yO/yfRBl4TgANIiT0vJVnSVrIF0A==
   dependencies:
     "@babel/cli" "7.8.4"
     "@babel/core" "7.8.4"
@@ -1523,8 +1523,8 @@ aberlaas@1.0.1:
     eslint-plugin-jsdoc "20.4.0"
     eslint-plugin-prettier "3.1.2"
     esm "3.2.25"
-    firost "1.0.0"
-    golgoth "1.0.3"
+    firost "1.0.1"
+    golgoth "1.0.4"
     husky "3.1.0"
     jasmine-fail-fast "2.0.1"
     jest "24.9.0"
@@ -4419,10 +4419,10 @@ firost@0.21.0:
     shelljs "0.8.3"
     which "2.0.2"
 
-firost@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/firost/-/firost-1.0.0.tgz#0a70b04cb9113c12dc372120128e3b28b0a0e2d4"
-  integrity sha512-FTuBsD2WwM14nkrrmwWwD5ctNAN4bco7xb/HohAAxUZD4ddEKopFMWoyug2cpgf0RVb1/FNXYP5xRysPNzIQ3Q==
+firost@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/firost/-/firost-1.0.1.tgz#d5a2f01723b06d538bb0b40492871c1d3b9b9f51"
+  integrity sha512-RgKIAYObYbYafaiuHv2rALuPt+K+F44UU6SCjq5bvk25PnfzsxbvYhkfgIAw25YVXKw/tPoOqd76nD6bU+eR9Q==
   dependencies:
     chokidar "3.3.1"
     esm "3.2.25"
@@ -4439,10 +4439,10 @@ firost@1.0.0:
     shelljs "0.8.3"
     which "2.0.2"
 
-firost@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/firost/-/firost-1.0.1.tgz#d5a2f01723b06d538bb0b40492871c1d3b9b9f51"
-  integrity sha512-RgKIAYObYbYafaiuHv2rALuPt+K+F44UU6SCjq5bvk25PnfzsxbvYhkfgIAw25YVXKw/tPoOqd76nD6bU+eR9Q==
+firost@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/firost/-/firost-1.1.0.tgz#8a726f3009c50a6bca5dc6b8ce6fd3f119a54bad"
+  integrity sha512-qdrcDNGe3gkHuseDqejERChfB7X3YUFD7muCaMRmaSBrcrdoWwP1BXcAhlUs1ms+UrYD7BMKl3UD4Xm55tXzUQ==
   dependencies:
     chokidar "3.3.1"
     esm "3.2.25"

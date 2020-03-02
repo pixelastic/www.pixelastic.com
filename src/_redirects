@@ -1,6 +1,10 @@
 # Rickrolling hacking attempts
 /wp-login.php https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
+# Pretty urls
+/coaching.html      /coaching/
+/projects.html      /projects/
+
 # Old blog was on /blog, now on its own subdomain
 /blog/              http://blog.pixelastic.com/
 /blog/archive/*     http://blog.pixelastic.com/archive/:splat

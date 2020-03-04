@@ -1,0 +1,22 @@
+extends /_includes/_layouts/core
+
+block config
+  - pageDescription = "Talks I gave in various meetups and conferences"
+
+block content
+  .container.mx-auto
+    .flrw.p-2
+      each talk in data.talks
+        - const talkLink = talk.video || talk.slides
+        - const talkPicture = ""
+        .fln.w-100p.lg_w-50p.lg_pr-2.pb-2.flrnw
+          .block.bg-gray-3.border.border-gray-6.rounded.fla.overflow-hidden.flcnw
+            .fln.h-12.bg-contain.bg-no-repeat.bg-red(style=`background-image:url(${talkPicture})`)
+            .fln.flcnw.pt-01.pb-1.px-1.border-t-001.border-gray-5
+              a.fln.text-5.blue.bold(href=talkLink)=talk.title
+              .fln.flrnw.flrar.gray-8.text-1.italic
+                .fln.pr-01=`${talk.when},`
+                if talk.where_link
+                  a.fln.underline.black.hover_no-underline(href=talk.where_link)=talk.where
+                else
+                  .fln=talk.where

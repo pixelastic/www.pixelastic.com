@@ -1,0 +1,353 @@
+[
+  {
+    "screenshot": "images/talks/whyIsUtilityFirstCssAwesome-cssParis-december2019.png",
+    "slides": "https://talks.pixelastic.com/slides/cssparis-2019-12/",
+    "title": "Why is Utility-first CSS awesome",
+    "video": "",
+    "when": "December 2019",
+    "where": "CSS Paris",
+    "where_link": "https://www.meetup.com/fr-FR/CSS-Paris/events/266947220/"
+  },
+  {
+    "screenshot": "images/talks/buildingASearchEngineWithCss-takeOffConference-june2018.png",
+    "slides": "https://talks.pixelastic.com/slides/css-search-engine-takeoffconf-2018/#/",
+    "title": "Building a search engine with CSS",
+    "video": "",
+    "when": "June 2018",
+    "where": "TakeOffConference",
+    "where_link": "https://www.takeoffconf.io/"
+  },
+  {
+    "screenshot": "images/talks/buildingASearchEngineWithCss-dotCss2017-december2017.png",
+    "slides": "https://talks.pixelastic.com/slides/hacking-css-dotcss-2017/#/",
+    "title": "Building a search engine with CSS",
+    "video": "https://www.youtube.com/watch?v=NFeRlR9dOwY",
+    "when": "December 2017",
+    "where": "dotCSS 2017",
+    "where_link": "https://www.dotconferences.com/2017/11/tim-carry-building-a-search-engine-in-css"
+  },
+  {
+    "screenshot": "images/talks/aSearchEngineInPureCss-hackference-october2017.png",
+    "slides": "https://talks.pixelastic.com/slides/css-search-engine-hackference-2017/",
+    "title": "A Search Engine in pure CSS",
+    "video": "https://www.youtube.com/watch?v=5k4sxTEDZAw",
+    "when": "October 2017",
+    "where": "Hackference",
+    "where_link": "https://2017.hackference.co.uk/"
+  },
+  {
+    "screenshot": "images/talks/aSearchEngineInPureCss-aucklandCssMeetup-august2017.png",
+    "slides": "https://talks.pixelastic.com/slides/algolia-auckland-css-2017/",
+    "title": "A Search Engine in pure CSS",
+    "video": "",
+    "when": "August 2017",
+    "where": "Auckland CSS meetup",
+    "where_link": ""
+  },
+  {
+    "screenshot": "images/talks/howToBuildASearchEngineInPureCss-cssParisMeetup-may2017.png",
+    "slides": "https://talks.pixelastic.com/slides/css-search-cssparis-2017/#/",
+    "title": "How To Build A Search Engine In Pure CSS",
+    "video": "https://www.dailymotion.com/video/x5ne8fu",
+    "when": "May 2017",
+    "where": "CSS Paris Meetup",
+    "where_link": "https://www.meetup.com/fr-FR/CSS-Paris/events/240023563/"
+  },
+  {
+    "screenshot": "images/talks/aSearchEngineInPureCss-octoTechnologyBbl-june2017.png",
+    "slides": "https://talks.pixelastic.com/slides/octo-bof-2017/",
+    "title": "A Search Engine in Pure CSS",
+    "video": "",
+    "when": "June 2017",
+    "where": "Octo Technology BBL",
+    "where_link": ""
+  },
+  {
+    "screenshot": "images/talks/fastAndRelevantHowSearchShouldBe-atlantaRubyMeetup-april2018.png",
+    "slides": "https://talks.pixelastic.com/slides/algolia-atlanta-ruby-2018/#/",
+    "title": "Fast and Relevant: How Search should be",
+    "video": "",
+    "when": "April 2018",
+    "where": "Atlanta Ruby Meetup",
+    "where_link": "https://www.meetup.com/fr-FR/atlantaruby/events/248377853/"
+  },
+  {
+    "screenshot": "images/talks/aTaleOfSearchAndCulture-serverlessAucklandMeetup-august2017.png",
+    "slides": "https://talks.pixelastic.com/slides/algolia-serverless-auckland-2017/#/",
+    "title": "A Tale of Search and Culture",
+    "video": "",
+    "when": "August 2017",
+    "where": "Serverless Auckland Meetup",
+    "where_link": "https://www.meetup.com/fr-FR/Serverless-Auckland/events/240752247/"
+  },
+  {
+    "screenshot": "images/talks/howToBuildASearchAsYouTypeApplicationInUnder15Mn-serverlessLondon-november2016.png",
+    "slides": "",
+    "title": "How to build a search-as-you-type application in under 15mn",
+    "video": "https://www.youtube.com/watch?v=YfR9oyzoWbc",
+    "when": "November 2016",
+    "where": "Serverless London",
+    "where_link": "https://london.serverlessconf.io"
+  },
+  {
+    "screenshot": "images/talks/howToBecomeAPublicSpeaker-theodoBbl-october2017.png",
+    "slides": "https://talks.pixelastic.com/slides/algolia-speaker-program-theodo-2017/#/",
+    "title": "How to become a public speaker",
+    "video": "",
+    "when": "October 2017",
+    "where": "Theodo BBL",
+    "where_link": "https://www.theodo.fr/"
+  },
+  {
+    "screenshot": "images/talks/priseDeParoleEnPublic-humanTalksParis-november2016.png",
+    "slides": "https://talks.pixelastic.com/slides/public-speaking-humantalks/#/",
+    "title": "Prise de Parole en Public",
+    "video": "https://www.youtube.com/watch?v=ZDcIm-WzpJw",
+    "when": "November 2016",
+    "where": "HumanTalks Paris",
+    "where_link": "https://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/"
+  },
+  {
+    "screenshot": "images/talks/creatingASpeakerProgram-dailymotionBbl-june2017.png",
+    "slides": "https://talks.pixelastic.com/slides/algolia-speaker-program-dailymotion-2017/#/",
+    "title": "Creating a Speaker Program",
+    "video": "",
+    "when": "June 2017",
+    "where": "Dailymotion BBL",
+    "where_link": ""
+  },
+  {
+    "screenshot": "images/talks/compagnonnageCssEtVexillologie-miXiT2017-april2017.png",
+    "slides": "http://talks.pixelastic.com/slides/css-flags-mixit/#/",
+    "title": "Compagnonnage, CSS et Vexillologie",
+    "video": "https://vimeo.com/216848472",
+    "when": "April 2017",
+    "where": "MiXiT 2017",
+    "where_link": "https://mixitconf.org/2017/compagnonnage-css-et-vexillologie"
+  },
+  {
+    "screenshot": "images/talks/craftsmanshipCssAndVexillology-takeOffConf2016-october2016.png",
+    "slides": "https://talks.pixelastic.com/slides/css-flags-takeoffconf/#/",
+    "title": "Craftsmanship, CSS and Vexillology",
+    "video": "",
+    "when": "October 2016",
+    "where": "TakeOffConf 2016",
+    "where_link": "https://www.takeoffconf.io/"
+  },
+  {
+    "screenshot": "images/talks/compagnonnageCssEtVexillologie-takeOffTalks-june2016.png",
+    "slides": "https://talks.pixelastic.com/slides/css-flags-takeofftalks/#/",
+    "title": "Compagnonnage, CSS et Vexillologie",
+    "video": "",
+    "when": "June 2016",
+    "where": "TakeOffTalks",
+    "where_link": "https://www.meetup.com/fr-FR/Take-Off-Talks-Lille/events/231905397/"
+  },
+  {
+    "screenshot": "images/talks/cssCompagnonnageEtVexillologie-bestOfWeb-june2016.png",
+    "slides": "https://talks.pixelastic.com/slides/css-flags-bestofweb/#/",
+    "title": "CSS, Compagnonnage et Vexillologie",
+    "video": "https://www.youtube.com/watch?v=4gr3E6zDUxQ",
+    "when": "June 2016",
+    "where": "BestOfWeb",
+    "where_link": "http://bestofweb.paris/"
+  },
+  {
+    "screenshot": "images/talks/cssCompagnonnageEtVexillologie-parisRbMeetup-may2016.png",
+    "slides": "https://talks.pixelastic.com/slides/css-flags-parisrb/#/",
+    "title": "CSS, Compagnonnage et Vexillologie",
+    "video": "",
+    "when": "May 2016",
+    "where": "ParisRB meetup",
+    "where_link": "https://www.meetup.com/fr-FR/parisrb/events/222363648/"
+  },
+  {
+    "screenshot": "images/talks/cssCompagnonnageEtVexillologie-cssParisMeetup-january2016.png",
+    "slides": "https://talks.pixelastic.com/slides/css-flags-paris/#/",
+    "title": "CSS, Compagnonnage et Vexillologie",
+    "video": "",
+    "when": "January 2016",
+    "where": "CSS Paris meetup",
+    "where_link": "https://www.meetup.com/fr-FR/CSS-Paris/events/228200696/"
+  },
+  {
+    "screenshot": "images/talks/superPowersWithApIs-parisApiMeetup-may2017.jpg",
+    "slides": "https://talks.pixelastic.com/slides/super-powers-with-api-paris-api-2017/",
+    "title": "Super-Powers with APIs",
+    "video": "https://www.youtube.com/watch?v=kXR2bK-xHQg",
+    "when": "May 2017",
+    "where": "Paris API meetup",
+    "where_link": "https://www.meetup.com/fr-FR/ParisAPI/events/239845070/"
+  },
+  {
+    "screenshot": "images/talks/superPowersWithApIs-leWagonNantes-november2016.png",
+    "slides": "https://talks.pixelastic.com/slides/marvel-le-wagon/#/",
+    "title": "Super-Powers with APIs",
+    "video": "",
+    "when": "November 2016",
+    "where": "Le Wagon Nantes",
+    "where_link": "https://www.lewagon.com/nantes"
+  },
+  {
+    "screenshot": "images/talks/marvelSuperSearch-humanTalksParisMeetup-may2016.png",
+    "slides": "https://talks.pixelastic.com/slides/marvel-humantalks/",
+    "title": "Marvel Super-Search!",
+    "video": "",
+    "when": "May 2016",
+    "where": "HumanTalks Paris meetup",
+    "where_link": "https://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/"
+  },
+  {
+    "screenshot": "images/talks/marvelSuperSearch-parisJsMeetup-april2016.png",
+    "slides": "https://talks.pixelastic.com/slides/marvel-parisjs/",
+    "title": "Marvel Super-Search!",
+    "video": "",
+    "when": "April 2016",
+    "where": "ParisJS meetup",
+    "where_link": "https://www.meetup.com/fr-FR/Paris-js/events/230298998/"
+  },
+  {
+    "screenshot": "images/talks/dotCssLogoInOneDiv-dotCss2016-december2016.jpg",
+    "slides": "https://pixelastic.github.io/talk-dotcss-onediv/#/",
+    "title": "dotCSS logo in one div",
+    "video": "https://www.youtube.com/watch?v=3z6JhjoG7nA",
+    "when": "December 2016",
+    "where": "dotCSS 2016",
+    "where_link": "https://2016.dotcss.io/"
+  },
+  {
+    "screenshot": "images/talks/algoliaSearchOnJekyllSites-parisRbMeetup-july2016.png",
+    "slides": "https://talks.pixelastic.com/slides/jekyll-algolia-parisrb/#/",
+    "title": "Algolia Search on Jekyll Sites",
+    "video": "",
+    "when": "July 2016",
+    "where": "ParisRB meetup",
+    "where_link": "https://www.meetup.com/fr-FR/parisrb/events/224640274/"
+  },
+  {
+    "screenshot": "images/talks/algoliaSearchOnJekyllSites-jekyllConf-may2016.jpg",
+    "slides": "https://talks.pixelastic.com/slides/jekyll-algolia-jekyllconf2016/#/",
+    "title": "Algolia Search on Jekyll Sites",
+    "video": "https://www.youtube.com/watch?v=ivMML1J4ABY",
+    "when": "May 2016",
+    "where": "JekyllConf",
+    "where_link": "https://jekyllconf.com/"
+  },
+  {
+    "screenshot": "images/talks/techniquesDeMemorisation-humanTalksParisMeetup-october2015.png",
+    "slides": "https://talks.pixelastic.com/slides/memory-humantalks-2015/#/",
+    "title": "Techniques de mémorisation",
+    "video": "",
+    "when": "October 2015",
+    "where": "HumanTalks Paris meetup",
+    "where_link": "https://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/"
+  },
+  {
+    "screenshot": "images/talks/techniquesDeMemorisation-meeticBbl-april2015.png",
+    "slides": "https://talks.pixelastic.com/slides/memory-meetic-bbl/",
+    "title": "Techniques de mémorisation",
+    "video": "",
+    "when": "April 2015",
+    "where": "Meetic BBL",
+    "where_link": "https://www.meetic.fr/"
+  },
+  {
+    "screenshot": "images/talks/techniquesDeMemorisation-octoTechnologyBbl-april2015.png",
+    "slides": "https://talks.pixelastic.com/slides/memory-octo-colob/#1",
+    "title": "Techniques de mémorisation",
+    "video": "",
+    "when": "April 2015",
+    "where": "Octo Technology BBL",
+    "where_link": "https://www.octo.com/"
+  },
+  {
+    "screenshot": "images/talks/techniquesDeMemorisation-octoTechnologyBbl-march2015.png",
+    "slides": "https://talks.pixelastic.com/slides/memory-octo/#1",
+    "title": "Techniques de mémorisation",
+    "video": "",
+    "when": "March 2015",
+    "where": "Octo Technology BBL",
+    "where_link": "https://www.octo.com/"
+  },
+  {
+    "screenshot": "images/talks/syntasticTheAwesomeSyntaxCheckingPluginForVim-parisVimMeetup-december2015.png",
+    "slides": "https://talks.pixelastic.com/slides/vim-syntastic/#1",
+    "title": "Syntastic: The awesome syntax checking plugin for vim",
+    "video": "",
+    "when": "December 2015",
+    "where": "Paris Vim meetup",
+    "where_link": "https://www.meetup.com/fr-FR/Vim-Paris/events/226831909/"
+  },
+  {
+    "screenshot": "images/talks/vimIlYAEncoreDesGensQuiCodentAvecCa-humanTalksParisMeetup-april2015.png",
+    "slides": "https://talks.pixelastic.com/slides/vim-humantalks/#1",
+    "title": "Vim ? Il y a encore des gens qui codent avec ça ?",
+    "video": "",
+    "when": "April 2015",
+    "where": "HumanTalks Paris meetup",
+    "where_link": "https://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/"
+  },
+  {
+    "screenshot": "images/talks/autopsieDunJpg-octoTechnologyBbl-april2015.png",
+    "slides": "https://talks.pixelastic.com/slides/jpg-octo-bof/#1",
+    "title": "Autopsie d'un JPG",
+    "video": "",
+    "when": "April 2015",
+    "where": "Octo Technology BBL",
+    "where_link": "https://www.octo.com/"
+  },
+  {
+    "screenshot": "images/talks/bonnesPratiquesWebperf-meeticBbl-february2015.png",
+    "slides": "https://talks.pixelastic.com/slides/webperfs-bbl-meetic/#/",
+    "title": "Bonnes pratiques webperf",
+    "video": "",
+    "when": "February 2015",
+    "where": "Meetic BBL",
+    "where_link": "https://www.meetic.fr/"
+  },
+  {
+    "screenshot": "images/talks/webperfs101-takeOffTalksMeetup-october2014.png",
+    "slides": "https://talks.pixelastic.com/slides/webperfs-takeofftalks/#/",
+    "title": "Webperfs 101",
+    "video": "",
+    "when": "October 2014",
+    "where": "TakeOffTalks meetup",
+    "where_link": "https://www.meetup.com/fr-FR/Take-Off-Talks-Lille/events/213598572/"
+  },
+  {
+    "screenshot": "images/talks/concatenateCompressCache-humanTalksParisMeetup-september2014.png",
+    "slides": "https://talks.pixelastic.com/slides/webperfs-humantalks/#/",
+    "title": "Concatenate, Compress, Cache",
+    "video": "",
+    "when": "September 2014",
+    "where": "HumanTalks Paris meetup",
+    "where_link": "https://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/"
+  },
+  {
+    "screenshot": "images/talks/lesWebperfsPourLesNuls-perfUgParisMeetup-august2014.jpg",
+    "slides": "https://talks.pixelastic.com/slides/webperf-perfug/#/",
+    "title": "Les webperfs pour les nuls",
+    "video": "https://octo.ubicast.tv/permalink/v12516c17909efi73ga5/",
+    "when": "August 2014",
+    "where": "PerfUG Paris meetup",
+    "where_link": "https://www.meetup.com/fr-FR/PerfUG/events/202066472/"
+  },
+  {
+    "screenshot": "images/talks/gruntTheGoodParts-oct-.png",
+    "slides": "https://www.meetup.com/fr-FR/PerfUG/events/202066472/",
+    "title": "Grunt: The Good Parts",
+    "video": "",
+    "when": "March 2015",
+    "where": "Octo Technology BBL",
+    "where_link": "https://www.octo.com/"
+  },
+  {
+    "screenshot": "images/talks/decouvrirUnNouvelAmour-coeurCoeurCoeurPodcast-december2018.png",
+    "slides": "",
+    "title": "Découvrir un nouvel amour",
+    "video": "https://podcast.ausha.co/coeur-coeur-coeur/tim-decouvrir-un-nouvel-amour",
+    "when": "December 2018",
+    "where": "Cœur Cœur Cœur podcast",
+    "where_link": "https://podcast.ausha.co/coeur-coeur-coeur"
+  }
+]

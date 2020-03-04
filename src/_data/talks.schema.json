@@ -1,0 +1,18 @@
+{
+  "type": "list",
+  "displayKey": "title",
+  "itemSchema": [
+    { "name": "title", "type": "text" },
+    {
+      "name": "screenshot",
+      "type": "upload",
+      "uploadDirectory": "images/talks",
+      "uploadBasename": "{title}-{where}-{when}"
+    },
+    { "name": "slides", "type": "text" },
+    { "name": "video", "type": "text" },
+    { "name": "where", "type": "text" },
+    { "name": "where_link", "type": "text" },
+    { "name": "when", "type": "text" }
+  ]
+}

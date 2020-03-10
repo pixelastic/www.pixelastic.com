@@ -3,10 +3,10 @@ block config
 
 - pageAuthor = pageAuthor || data.site.defaultAuthor
 - pageDescription = pageDescription || data.site.defaultDescription
-- pageImage = pageImage || data.site.defaultImage
 - pageTitle = pageTitle || data.site.defaultTitle
 - pageTwitter = pageTwitter || data.site.defaultTwitter
-- pageUrl = pageUrl || data.site.defaultUrl
+- pageUrl = pageUrl || `${data.site.defaultUrl}${url.here}`
+- pageImage = pageImage || `https://api.microlink.io/?screenshot=true&embed=screenshot.url&url=${pageUrl}`
 
 doctype html
 html(lang='en')
@@ -22,7 +22,7 @@ html(lang='en')
     meta(property='og:url', content=pageUrl)
     meta(property='og:title', content=pageTitle)
     meta(property='og:description', content=pageDescription)
-    meta(property='og:image', content=`${pageUrl}${pageImage}`)
+    meta(property='og:image', content!=pageImage)
     script!=tweaks.ensureUrlTrailingSlashSource
     link(rel="shortcut icon", href=`${url.pathToRoot}favicon.png`)
     link(type="text/css", rel="stylesheet", href=revv(`${url.pathToRoot}style.css`))

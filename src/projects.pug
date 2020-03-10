@@ -6,12 +6,13 @@ block config
 block content
   .container.mx-auto
     .flrw.p-2
-      each project in data.projects
+      each project, index in data.projects
         .fln.w-100p.xl_w-50p.xl_pr-2.pb-2.flrnw
           a.block.bg-gray-3.border.border-gray-6.rounded.fla.overflow-hidden(href=project.url)
             if project.screenshot
-              - const revvedBackground = revv(`${url.pathToRoot}${project.screenshot}`);
-              .block.h-14.bg-cover.bg-top.bg-no-repeat(style=`background-image:url(${revvedBackground})`, href=project.url)
+              - const projectPicture = revv(`${url.pathToRoot}${project.screenshot}`);
+              - const lazyload = lazyloadBackground(projectPicture, { disable: index < 4 });
+              .block.h-14.bg-cover.bg-top.bg-no-repeat.lazyload(style=lazyload.style data-bg=lazyload.dataBg href=project.url)
             else
               - const content = include(`_includes/projects/${project.name}.pug`);
               .block.h-14(href=project.url) !{content}

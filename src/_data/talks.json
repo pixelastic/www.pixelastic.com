@@ -1,20 +1,29 @@
 [
   {
+    "screenshot": "images/talks/peutOnGarderUneUrlSecrete-humanTalksParisMeetup-march2020.png",
+    "slides": "https://talks.pixelastic.com/slides/humantalks-un-bon-moment/#slide0",
+    "title": "Peut-on garder une url secrète ?",
+    "video": "",
+    "when": "March 2020",
+    "where": "HumanTalks Paris meetup",
+    "where_link": "https://talks.pixelastic.com/slides/humantalks-un-bon-moment/#slide0"
+  },
+  {
     "screenshot": "images/talks/maintenirSesProjetsAJourAutomatiquementAvecUnMinimumDeffort-jamStackParisMeetup-february2020.jpg",
     "slides": "https://talks.pixelastic.com/slides/society-search-jamstack-paris/#slide0",
     "title": "Automating Side Projects",
     "video": "https://www.youtube.com/watch?v=kC8C8CWpgfs",
     "when": "February 2020",
-    "where": "JAMStack Paris Meetup",
+    "where": "JAMStack Paris meetup",
     "where_link": "https://www.meetup.com/fr-FR/JAMstack-paris/events/267612314/"
   },
   {
     "screenshot": "images/talks/whyIsUtilityFirstCssAwesome-cssParis-december2019.png",
     "slides": "https://talks.pixelastic.com/slides/cssparis-2019-12/",
-    "title": "Why is Utility-first CSS awesome",
+    "title": "Why is Utility-first CSS awesome?",
     "video": "",
     "when": "December 2019",
-    "where": "CSS Paris",
+    "where": "CSS Paris meetup",
     "where_link": "https://www.meetup.com/fr-FR/CSS-Paris/events/266947220/"
   },
   {
@@ -77,7 +86,7 @@
     "title": "Prise de Parole en Public",
     "video": "https://www.youtube.com/watch?v=ZDcIm-WzpJw",
     "when": "November 2016",
-    "where": "HumanTalks Paris",
+    "where": "HumanTalks Paris meetup",
     "where_link": "https://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/"
   },
   {
@@ -86,7 +95,7 @@
     "title": "Fast and Relevant: How Search should be",
     "video": "",
     "when": "April 2018",
-    "where": "Atlanta Ruby Meetup",
+    "where": "Atlanta Ruby meetup",
     "where_link": "https://www.meetup.com/fr-FR/atlantaruby/events/248377853/"
   },
   {
@@ -95,7 +104,7 @@
     "title": "A Tale of Search and Culture",
     "video": "",
     "when": "August 2017",
-    "where": "Serverless Auckland Meetup",
+    "where": "Serverless Auckland meetup",
     "where_link": "https://www.meetup.com/fr-FR/Serverless-Auckland/events/240752247/"
   },
   {
@@ -104,7 +113,7 @@
     "title": "How to build a search-as-you-type application in under 15mn",
     "video": "https://www.youtube.com/watch?v=YfR9oyzoWbc",
     "when": "November 2016",
-    "where": "Serverless London",
+    "where": "Serverless London 2016",
     "where_link": "https://london.serverlessconf.io"
   },
   {
@@ -113,7 +122,7 @@
     "title": "Algolia Search on Jekyll Sites",
     "video": "https://www.youtube.com/watch?v=ivMML1J4ABY",
     "when": "May 2016",
-    "where": "JekyllConf",
+    "where": "JekyllConf 2016",
     "where_link": "https://jekyllconf.com/"
   },
   {
@@ -122,7 +131,7 @@
     "title": "A Search Engine in pure CSS",
     "video": "https://www.youtube.com/watch?v=5k4sxTEDZAw",
     "when": "October 2017",
-    "where": "Hackference",
+    "where": "Hackference 2017",
     "where_link": "https://2017.hackference.co.uk/"
   },
   {
@@ -131,7 +140,7 @@
     "title": "Building a search engine with CSS",
     "video": "",
     "when": "June 2018",
-    "where": "TakeOffConference",
+    "where": "TakeOffConf 2018",
     "where_link": "https://www.takeoffconf.io/"
   },
   {
@@ -149,7 +158,7 @@
     "title": "How To Build A Search Engine In Pure CSS",
     "video": "https://www.dailymotion.com/video/x5ne8fu",
     "when": "May 2017",
-    "where": "CSS Paris Meetup",
+    "where": "CSS Paris meetup",
     "where_link": "https://www.meetup.com/fr-FR/CSS-Paris/events/240023563/"
   },
   {
@@ -203,7 +212,7 @@
     "title": "Compagnonnage, CSS et Vexillologie",
     "video": "",
     "when": "June 2016",
-    "where": "TakeOffTalks",
+    "where": "TakeOffTalks meetup",
     "where_link": "https://www.meetup.com/fr-FR/Take-Off-Talks-Lille/events/231905397/"
   },
   {

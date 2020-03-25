@@ -1,5 +1,14 @@
 [
   {
+    "screenshot": "images/talks/slidesDosAndDonts-craftsRecordsMeetup-february2020.jpg",
+    "slides": "https://talks.pixelastic.com/slides/craftsrecords-slides",
+    "title": "Slides: Do's and Don'ts",
+    "video": "https://www.youtube.com/watch?v=onfaLYecMlQ",
+    "when": "February 2020",
+    "where": "CraftsRecords meetup",
+    "where_link": "https://www.meetup.com/fr-FR/CraftsRecords/events/268582330"
+  },
+  {
     "screenshot": "images/talks/peutOnGarderUneUrlSecrete-humanTalksParisMeetup-march2020.png",
     "slides": "https://talks.pixelastic.com/slides/humantalks-un-bon-moment/#slide0",
     "title": "Peut-on garder une url secrète ?",

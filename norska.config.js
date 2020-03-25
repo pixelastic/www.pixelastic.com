@@ -1,2 +1,5 @@
-/* eslint-disable import/no-commonjs */
-module.exports = {};
+module.exports = {
+  cloudinary: {
+    bucketName: 'pixelastic-www',
+  },
+};

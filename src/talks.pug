@@ -8,14 +8,14 @@ block content
     .flrw.p-2
       each talk, index in data.talks
         - const talkLink = talk.video || talk.slides
-        - const talkPicture = revv(`${url.pathToRoot}${talk.screenshot}`)
-        - const lazyload = lazyloadBackground(talkPicture, { disable: index < 4 });
+        - const attrs = lazyload(talk.screenshot, { disable: index < 4, width: 600 });
         //- Prevent one word hanging on new line
         - const talkTitle = talk.title.replace(/(\w*) (\w*)$/, "$1&nbsp;$2")
         .fln.w-100p.lg_w-50p.lg_pr-2.pb-2.flrnw
           .block.border.border-gray-6.rounded.fla.overflow-hidden.flcnw
             .fla.flcnw
-              a.fln.h-13.sm_h-15.lg_h-17.bg-contain.bg-no-repeat.bg-center.bg-gray-7.lazyload(style=lazyload.style data-bg=lazyload.dataBg href=talkLink)
+              a.fln.flcnw.flc.bg-gray-7(href=talkLink)
+                img.h-13.sm_h-15.lg_h-17.object-contain.lazyload(src=attrs.src data-src=attrs.dataSrc)
               .fla.bg-white.flcnw.flspb.pt-01.pb-01.px-1.border-t-001.border-gray-5
                 a.fln.text-5.blue.bold(href=talkLink)!=talkTitle
                 .fln.flrw.flrar.text-1.py-01.gray-9

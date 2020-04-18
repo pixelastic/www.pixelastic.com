@@ -1,2 +1,2 @@
-const lazyload = require('norska-frontend/lib/lazyload');
+const lazyload = require('norska/frontend/lazyload');
 lazyload.init();

@@ -13,10 +13,10 @@ block content
         .fln.w-100p.lg_w-50p.lg_pr-2.pb-2.flrnw
           .block.border.border-gray-7.hover_border-gray-6.border-001.rounded.fla.overflow-hidden.flcnw
             .fla.flcnw
-              a.fln.flcnw.flcch.h-13.sm_h-15.lg_h-17.bg-gray-7(href=talkLink)
-                +img.h-100p.object-fill(src=talk.screenshot options={disable: index > 4, width: 600 })
+              a.fln.flcnw.flcch.h-13.sm_h-15.lg_h-17.bg-gray-7(href=talkLink title=talk.title)
+                +img.h-100p.object-fill(src=talk.screenshot options={disable: index > 4, width: 600 } alt=talk.title)
               .fla.bg-white.flcnw.flspb.pt-01.pb-01.px-1.border-t-001.border-gray-5
-                a.fln.text-5.blue.bold(href=talkLink)!=talkTitle
+                a.fln.text-5.blue.bold(href=talkLink title=talk.title)!=talkTitle
                 .fln.flrw.flrar.text-1.py-01.gray-9
                   if talk.video
                     a.fln.flrnw.flrcv.mr-1.hover_black.hover_underline(href=talk.video) 

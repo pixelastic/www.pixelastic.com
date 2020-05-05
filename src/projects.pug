@@ -13,10 +13,10 @@ block content
     .flrw.p-2
       each project, index in data.projects
         .fln.w-100p.xl_w-50p.xl_pr-2.pb-2.flrnw
-          a.block.bg-gray-3.border.border-gray-6.rounded.fla.overflow-hidden(href=project.url)
+          a.block.bg-gray-3.border.border-gray-6.rounded.fla.overflow-hidden(href=project.url title=project.name)
             if project.screenshot
               .block.h-14.overflow-hidden
-                +img.object-contain.w-100p(src=project.screenshot options={disable: index < 4})
+                +img.object-contain.w-100p(src=project.screenshot options={disable: index < 4} alt=project.name)
             else
               - const content = include(`_includes/projects/${project.name}.pug`);
               .block.h-14(href=project.url) !{content}

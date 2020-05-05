@@ -10,11 +10,8 @@
     "golgoth": "1.2.0",
     "norska": "0.9.4"
   },
-  "files": [
-    "build/"
-  ],
+  "files": [],
   "name": "www.pixelastic.com",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git@github.com:pixelastic/www.pixelastic.com.git"

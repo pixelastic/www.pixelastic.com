@@ -10,8 +10,8 @@ block content
       .fln.bg-gray-9.bg-opacity-1.rounded-3.p-2.m-2
         h1.text-8 Tim Carry
         h2.text-5.italic Tech Public Speaking Coach
-    - const revvedBackground = revv(`${url.pathToRoot}/images/dotcss2.jpg`)
-    .absolute.top-0.bottom-0.right-0.w-100p.z-1.bg-no-repeat.bg-right.bg-cover.md_bg-contain(style=`background-image:url(${revvedBackground})`)
+    .absolute.top-0.bottom-0.right-0.w-100p.z-1.flrnw.flrar
+      +img.max-h-100p.object-cover(src=`${url.pathToRoot}images/dotcss2.jpg`)
 
   //- What I do
   .bg-gray-8.gray-2
@@ -28,13 +28,13 @@ block content
       .flcnw.sm_flrnw
         .fln.w-100p.sm_w-33p.p-2.sm_p-4.flrnw.flc
           a.grayscale-1.hover_grayscale-0.block(href="https://www.algolia.com")
-            img.max-h-8.sm_max-h-12(src=`${url.pathToRoot}images/algolia.png`)
+            +img.max-h-8.sm_max-h-12(src=`${url.pathToRoot}images/algolia.png`)
         .fln.w-100p.sm_w-33p.p-2.sm_p-4.flrnw.flc
           a.grayscale-1.hover_grayscale-0(href="https://www.meetup.com/HumanTalks-Paris/")
-            img.max-h-10.sm_max-h-12.rounded(src=`${url.pathToRoot}images/humantalks.png`)
+            +img.max-h-10.sm_max-h-12.rounded(src=`${url.pathToRoot}images/humantalks.png`)
         .fln.w-100p.sm_w-33p.p-2.sm_p-4.flrnw.flc
           a.grayscale-1.hover_grayscale-0(href="https://www.meetup.com/TechLunch/")
-            img.max-h-10.sm_max-h-12.rounded(src=`${url.pathToRoot}images/techlunch.png`)
+            +img.max-h-10.sm_max-h-12.rounded(src=`${url.pathToRoot}images/techlunch.png`)
 
       .text-4.gray-4.py-5 Développeur, Speaker (Ex-Developer Advocate à 
         a.white(href="https://www.algolia.com") Algolia

@@ -48,6 +48,24 @@
     "url": "https://gamemaster.pixelastic.com/society/"
   },
   {
+    "description": "My own SSG (Static Site Generator)",
+    "name": "norska",
+    "screenshot": "",
+    "url": "https://github.com/pixelastic/norska"
+  },
+  {
+    "description": "Scaffolding npm projects with build, test, lint and release scripts",
+    "name": "aberlaas",
+    "screenshot": "",
+    "url": "https://github.com/pixelastic/aberlaas"
+  },
+  {
+    "description": "Collection of methods to manipulate files on disk",
+    "name": "firost",
+    "screenshot": "",
+    "url": "https://github.com/pixelastic/firost"
+  },
+  {
     "description": "Search into YouTube videos content and jump exactly at the time of a match",
     "name": "TalkSearch",
     "screenshot": "images/projects/talkSearch.png",
@@ -78,28 +96,10 @@
     "url": "https://github.com/pixelastic/oroshi"
   },
   {
-    "description": "Collection of methods to manipulate files on disk",
-    "name": "firost",
-    "screenshot": "",
-    "url": "https://github.com/pixelastic/firost"
-  },
-  {
-    "description": "Scaffolding npm projects with build, test, lint and release scripts",
-    "name": "aberlaas",
-    "screenshot": "",
-    "url": "https://github.com/pixelastic/aberlaas"
-  },
-  {
     "description": "Meta-package including all the libs I always need (lodash, pify, etc)",
     "name": "golgoth",
     "screenshot": "",
     "url": "https://github.com/pixelastic/golgoth"
-  },
-  {
-    "description": "My own SSG (Static Site Generator)",
-    "name": "norska",
-    "screenshot": "",
-    "url": "https://github.com/pixelastic/norska"
   },
   {
     "description": "Utilities to split PDF files into smaller files, generate thumbnails and extract textual content.",
@@ -138,7 +138,7 @@
     "url": "https://github.com/pixelastic/acronyms"
   },
   {
-    "description": "Ruby gem to convert any arbitrary to an HTML anchor",
+    "description": "Ruby gem to convert any arbitrary text to an HTML anchor",
     "name": "anchorrb",
     "screenshot": "",
     "url": "https://github.com/pixelastic/anchorrb"

@@ -5,8 +5,6 @@ block config
 
 //- TODO:
 //-   - arval: mirroring filesystem
-//-   - reddimg: for a list of reddit images
-//-   - monsters: list of D&D monsters
 
 block content
   .container.mx-auto
@@ -21,6 +19,6 @@ block content
               - const content = include(`_includes/projects/${project.name}.pug`);
               .block.h-14(href=project.url) !{content}
 
-            .p-2
+            .p-1
               .blue.text-5.bold.hover_underline=project.name
-              .py-1.text-2.black=project.description
+              .pt-01.text-2.black=project.description

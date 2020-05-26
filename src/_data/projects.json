@@ -24,22 +24,28 @@
     "url": "https://community.algolia.com/marvel-search/"
   },
   {
-    "description": "Add fast and relevant Algolia search to a Jekyll website",
+    "description": "Official Algolia plugin for Jekyll",
     "name": "Algolia for Jekyll",
     "screenshot": "images/projects/algoliaForJekyll.png",
     "url": "https://community.algolia.com/jekyll-algolia/"
   },
   {
-    "description": "Searchable list of all the D&D 5e monsters",
+    "description": "Find the perfect D&D 5e monster for your encounter",
     "name": "D&D 5e Monster Search",
     "screenshot": "images/projects/dD5EMonsterSearch.png",
     "url": "https://gamemaster.pixelastic.com/monsters/dnd/"
   },
   {
-    "description": "List of portraits for NPCs",
+    "description": "List of portraits for NPCs, randomly generated through AI services",
     "name": "NPCs portraits",
     "screenshot": "images/projects/npCsPortraits.png",
     "url": "https://gamemaster.pixelastic.com/npcs/"
+  },
+  {
+    "description": "Auto-updated list of pictures from specific subreddits",
+    "name": "Reddimg",
+    "screenshot": "images/projects/reddimg.png",
+    "url": "https://reddimg.pixelastic.com/"
   },
   {
     "description": "Searchable list of all the Pathfinder Society scenarios",
@@ -48,13 +54,13 @@
     "url": "https://gamemaster.pixelastic.com/society/"
   },
   {
-    "description": "My own SSG (Static Site Generator)",
+    "description": "Opinionated Static Site Generator including pug, webpack and tailwind",
     "name": "norska",
     "screenshot": "",
     "url": "https://github.com/pixelastic/norska"
   },
   {
-    "description": "Scaffolding npm projects with build, test, lint and release scripts",
+    "description": "Scaffolding npm projects with test, lint and release scripts",
     "name": "aberlaas",
     "screenshot": "",
     "url": "https://github.com/pixelastic/aberlaas"

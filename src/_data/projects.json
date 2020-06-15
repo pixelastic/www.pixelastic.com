@@ -126,6 +126,12 @@
     "url": "https://github.com/pixelastic/aoinan"
   },
   {
+    "description": "Batch convert import statements to require calls in JavaScript files",
+    "name": "import2require",
+    "screenshot": "",
+    "url": "https://github.com/pixelastic/import2require"
+  },
+  {
     "description": "Generate a random programming excuse from the commandline",
     "name": "programmingexcuses.sh",
     "screenshot": "",

@@ -5,8 +5,8 @@ block config
 - pageDescription = pageDescription || data.site.defaultDescription
 - pageTitle = pageTitle || data.site.defaultTitle
 - pageTwitter = pageTwitter || data.site.defaultTwitter
-- pageUrl = pageUrl || `${data.site.defaultUrl}${url.here}`
-- pageImage = pageImage || `https://api.microlink.io/?screenshot=true&embed=screenshot.url&url=${pageUrl}`
+- pageUrl = pageUrl || data.site.defaultUrl
+- pageImage = pageImage || screenshot()
 
 doctype html
 html(lang='en')

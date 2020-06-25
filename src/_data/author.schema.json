@@ -1,1 +1,4 @@
-[{ "name": "twitter", "type": "text" }, { "name": "website", "type": "text" }]
+[
+  { "name": "twitter", "type": "text" },
+  { "name": "website", "type": "text" }
+]

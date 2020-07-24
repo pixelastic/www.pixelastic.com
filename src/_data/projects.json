@@ -18,10 +18,10 @@
     "url": "http://pixelastic.github.io/pokemonorbigdata/"
   },
   {
-    "description": "Searchable list of all Marvel superheroes and supervillains ",
-    "name": "Marvel Search",
-    "screenshot": "images/projects/marvelSearch.png",
-    "url": "https://community.algolia.com/marvel-search/"
+    "description": "Search for D&D maps for your next game",
+    "name": "D&D Maps",
+    "screenshot": "images/projects/dDMaps.png",
+    "url": "https://gamemaster.pixelastic.com/maps/"
   },
   {
     "description": "Official Algolia plugin for Jekyll",
@@ -40,6 +40,12 @@
     "name": "NPCs portraits",
     "screenshot": "images/projects/npCsPortraits.png",
     "url": "https://gamemaster.pixelastic.com/npcs/"
+  },
+  {
+    "description": "Searchable list of all Marvel superheroes and supervillains ",
+    "name": "Marvel Search",
+    "screenshot": "images/projects/marvelSearch.png",
+    "url": "https://community.algolia.com/marvel-search/"
   },
   {
     "description": "Auto-updated list of pictures from specific subreddits",

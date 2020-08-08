@@ -60,12 +60,6 @@
     "url": "https://community.algolia.com/jekyll-algolia/"
   },
   {
-    "description": "Auto-updated list of pictures from specific subreddits",
-    "name": "Reddimg",
-    "screenshot": "images/projects/reddimg.png",
-    "url": "https://reddimg.pixelastic.com/"
-  },
-  {
     "description": "List of portraits for NPCs, randomly generated through AI services",
     "name": "NPCs portraits",
     "screenshot": "images/projects/npCsPortraits.png",

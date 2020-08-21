@@ -1,4 +1,4 @@
-extends /_includes/_layouts/core
+extends /_includes/layouts/core
 
 block config
   - pageDescription = "Open-Source projects I worked on"
@@ -14,7 +14,7 @@ block content
           a.block.bg-gray-3.border.border-gray-6.rounded.fla.overflow-hidden(href=project.url title=project.name)
             if project.screenshot
               .block.h-14.overflow-hidden
-                +img.object-contain.w-100p(src=project.screenshot options={disable: index < 4} alt=project.name)
+                +img.object-contain.w-100p(src=`/${project.screenshot}` options={disable: index < 4} alt=project.name)
             else
               - const content = include(`_includes/projects/${project.name}.pug`);
               .block.h-14(href=project.url) !{content}

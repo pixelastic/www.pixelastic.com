@@ -72,10 +72,10 @@
     "url": "https://gamemaster.pixelastic.com/society/"
   },
   {
-    "description": "Collection of methods to manipulate files on disk",
+    "description": "My toolbox for command-line scripts",
     "name": "firost",
     "screenshot": "",
-    "url": "https://github.com/pixelastic/firost"
+    "url": "https://projects.pixelastic.com/firost/"
   },
   {
     "description": "Search into YouTube videos content and jump exactly at the time of a match",

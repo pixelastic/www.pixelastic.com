@@ -1,7 +1,6 @@
-extends /_includes/layouts/core
-
-block config
-  - pageDescription = "Hi, I'm Tim Carry, aka. @pixelastic. I'm a developer, speaker, public speaking coach, hacker, player, and gamemaster."
+//- ---
+//- description: "Hi, I'm Tim Carry, aka. @pixelastic. I'm a developer, speaker, public speaking coach, hacker, player, and gamemaster."
+//- --
 
 block content
   .container.mx-auto.flrnw.flc.h-base-100vh.h-crop-8
@@ -11,14 +10,14 @@ block content
 
       .lh-5.text-5.md_text-6.mt-4
         p I'm a 
-          a.blue-5(href="https://github.com/pixelastic") developer
+          a.blue-5(href=link('projects')) developer
           |, 
-          a.blue-6(href="http://talks.pixelastic.com") speaker
+          a.blue-6(href="http://talks.pixelastic.com") tech speaker
           |, 
-          a.orange(href="./coaching.html") public speaking coach
+          a.orange(href=link('coaching')) public speaking coach
           |, 
-          a.green(href="./projects.html") hacker
+          a.blue-3(href="https://painting.pixelastic.com/") painter
           |, 
-          a.teal(href="http://videogames.pixelastic.com") player
+          a.teal(href="http://videogames.pixelastic.com") videogame player
           |, and 
-          a.indigo(href="http://roleplay.pixelastic.com") gamemaster. 
+          a.indigo(href="http://gamemaster.pixelastic.com") gamemaster. 

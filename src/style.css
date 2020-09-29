@@ -4,6 +4,7 @@
 
 @import '_styles/highlight';
 @import '_styles/cards';
+@import '_styles/fonts';
 
 /* Toggle the menu on mobile screens */
 #menu_checkbox:checked ~ #menu_content {

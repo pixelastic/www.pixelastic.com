@@ -1,9 +1,9 @@
 [
   {
-    "description": "A search engine in pure CSS",
-    "name": "Algolia CSS API Client",
-    "screenshot": "images/projects/algoliaCssApiClient.png",
-    "url": "https://www.algolia.com/css"
+    "description": "Search for D&D maps for your next game",
+    "name": "D&D Maps",
+    "screenshot": "images/projects/dDMaps.png",
+    "url": "https://gamemaster.pixelastic.com/maps/"
   },
   {
     "description": "Flags of all nations of the world, with only one <div> and CSS",
@@ -18,22 +18,34 @@
     "url": "http://pixelastic.github.io/pokemonorbigdata/"
   },
   {
-    "description": "Search for D&D maps for your next game",
-    "name": "D&D Maps",
-    "screenshot": "images/projects/dDMaps.png",
-    "url": "https://gamemaster.pixelastic.com/maps/"
+    "description": "A search engine in pure CSS",
+    "name": "Algolia CSS API Client",
+    "screenshot": "images/projects/algoliaCssApiClient.png",
+    "url": "https://www.algolia.com/css"
   },
   {
-    "description": "Opinionated Static Site Generator including pug, webpack and tailwind",
+    "description": "Opinionated Static Site Generator using pug and tailwind",
     "name": "norska",
     "screenshot": "",
-    "url": "https://github.com/pixelastic/norska"
+    "url": "https://projects.pixelastic.com/norska/"
+  },
+  {
+    "description": "A toolbox for command-line scripts",
+    "name": "firost",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/firost/"
   },
   {
     "description": "Scaffolding npm projects with test, lint and release scripts",
     "name": "aberlaas",
     "screenshot": "",
     "url": "https://github.com/pixelastic/aberlaas"
+  },
+  {
+    "description": "A set of utility for configuring and running scripts on CircleCI",
+    "name": "on-circle",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/on-circle/"
   },
   {
     "description": "Find the perfect D&D 5e monster for your encounter",
@@ -70,12 +82,6 @@
     "name": "Pathfinder Society Search",
     "screenshot": "images/projects/pathfinderSocietySearch.png",
     "url": "https://gamemaster.pixelastic.com/society/"
-  },
-  {
-    "description": "My toolbox for command-line scripts",
-    "name": "firost",
-    "screenshot": "",
-    "url": "https://projects.pixelastic.com/firost/"
   },
   {
     "description": "Search into YouTube videos content and jump exactly at the time of a match",

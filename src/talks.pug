@@ -1,10 +1,12 @@
 //- ---
+//- title: Talks
 //- description: "Talks I gave in various meetups and conferences"
-//- --
+//- ---
 
 block content
   .container.mx-auto
     .flrw.p-2
+      
       each talk, index in data.talks
         - const talkLink = talk.video || talk.slides
         //- Prevent one word hanging on new line

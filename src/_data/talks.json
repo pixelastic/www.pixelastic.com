@@ -1,5 +1,14 @@
 [
   {
+    "screenshot": "images/talks/commentGarderUneUrlSecrete-parisWeb2020-october2020.jpeg",
+    "slides": "https://talks.pixelastic.com/slides/parisweb2020-url-secrete/#slide0",
+    "title": "Peut-on garder une URL secrète ?",
+    "video": "https://vimeo.com/469446708",
+    "when": "October 2020",
+    "where": "ParisWeb 2020",
+    "where_link": "https://www.paris-web.fr/2020/"
+  },
+  {
     "screenshot": "images/talks/peutOnGarderUneUrlSecrete-humanTalksParisMeetup-march2020.jpg",
     "slides": "https://talks.pixelastic.com/slides/humantalks-un-bon-moment/#slide0",
     "title": "Peut-on garder une URL secrète ?",

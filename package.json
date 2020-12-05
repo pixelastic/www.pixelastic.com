@@ -4,12 +4,12 @@
     "url": "https://github.com/pixelastic/www.pixelastic.com/issues"
   },
   "dependencies": {
-    "norska": "1.5.1"
+    "norska": "1.5.2"
   },
   "description": "Tim Carry's (@pixelastic) website",
   "devDependencies": {
-    "aberlaas": "1.13.3",
-    "firost": "2.0.6",
+    "aberlaas": "1.14.0",
+    "firost": "2.1.0",
     "golgoth": "1.5.0"
   },
   "files": [],

@@ -36,6 +36,12 @@
     "url": "https://projects.pixelastic.com/firost/"
   },
   {
+    "description": "Meta-package including all the libs I always need (lodash, pify, etc)",
+    "name": "golgoth",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/golgoth/"
+  },
+  {
     "description": "Scaffolding npm projects with test, lint and release scripts",
     "name": "aberlaas",
     "screenshot": "",
@@ -112,12 +118,6 @@
     "name": "oroshi",
     "screenshot": "",
     "url": "https://github.com/pixelastic/oroshi"
-  },
-  {
-    "description": "Meta-package including all the libs I always need (lodash, pify, etc)",
-    "name": "golgoth",
-    "screenshot": "",
-    "url": "https://github.com/pixelastic/golgoth"
   },
   {
     "description": "Utilities to split PDF files into smaller files, generate thumbnails and extract textual content.",

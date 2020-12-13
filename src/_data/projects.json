@@ -78,12 +78,6 @@
     "url": "https://community.algolia.com/jekyll-algolia/"
   },
   {
-    "description": "List of portraits for NPCs, randomly generated through AI services",
-    "name": "NPCs portraits",
-    "screenshot": "images/projects/npCsPortraits.png",
-    "url": "https://gamemaster.pixelastic.com/npcs/"
-  },
-  {
     "description": "Searchable list of all the Pathfinder Society scenarios",
     "name": "Pathfinder Society Search",
     "screenshot": "images/projects/pathfinderSocietySearch.png",

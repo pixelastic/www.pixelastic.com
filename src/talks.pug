@@ -5,34 +5,34 @@
 
 block content
   .container.mx-auto
-    .flrw.p-2
+    .flex.flex-wrap.p-2
       
       each talk, index in data.talks
         - const talkLink = talk.video || talk.slides
         //- Prevent one word hanging on new line
         - const talkTitle = talk.title.replace(/(\w*) (\w*)$/, "$1&nbsp;$2")
-        .fln.w-100p.lg_w-50p.lg_pr-2.pb-2.flrnw
-          .block.border.border-gray-7.hover_border-gray-6.border-001.rounded.fla.overflow-hidden.flcnw
-            .fla.flcnw
-              a.fln.flcnw.flcch.h-13.sm_h-15.lg_h-17.bg-gray-7(href=talkLink title=talk.title)
+        .flex-none.w-100p.lg_w-50p.lg_pr-2.pb-2.flex
+          .block.border.border-gray-7.hover_border-gray-6.border-001.rounded.flex-auto.overflow-hidden.flex.flex-col
+            .flex-auto.flex.flex-col
+              a.flex-none.flex.flex-col.flex-cross-center.h-13.sm_h-15.lg_h-17.bg-gray-7(href=talkLink title=talk.title)
                 +img.h-100p.object-fill(src=`/${talk.screenshot}` options={disable: index > 4, width: 600 } alt=talk.title)
-              .fla.bg-white.flcnw.flspb.pt-01.pb-01.px-1.border-t-001.border-gray-5
-                a.fln.text-5.blue.bold(href=talkLink title=talk.title)!=talkTitle
-                .fln.flrw.flrar.text-1.py-01.gray-9
+              .flex-auto.bg-white.flex.flex-col.pt-01.pb-01.px-1.border-t-001.border-gray-5
+                a.flex-none.text-5.blue.bold(href=talkLink title=talk.title)!=talkTitle
+                .flex-none.flex.flex-wrap.flex-main-end.text-1.py-01.gray-9
                   if talk.video
-                    a.fln.flrnw.flrcv.mr-1.hover_black.hover_underline(href=talk.video) 
-                      .fln Video
-                      .fln.h-1.w-1.fill-current.ml-01.opacity-50p
+                    a.flex-none.flex.flex-cross-center.mr-1.hover_black.hover_underline(href=talk.video) 
+                      .flex-none Video
+                      .flex-none.h-1.w-1.fill-current.ml-01.opacity-50p
                          include ./_includes/svg/target_blank
                   if talk.slides
-                    a.fln.flrnw.flrcv.mr-1.hover_black.hover_underline(href=talk.slides) 
-                      .fln Slides
-                      .fln.h-1.w-1.fill-current.ml-01.opacity-50p
+                    a.flex-none.flex.flex-cross-center.mr-1.hover_black.hover_underline(href=talk.slides) 
+                      .flex-none Slides
+                      .flex-none.h-1.w-1.fill-current.ml-01.opacity-50p
                         include ./_includes/svg/target_blank
-                  .fla
-                  .fln.flrnw.italic.gray-8
-                    .fln.pr-01=`${talk.when},`
+                  .flex-auto
+                  .flex-none.flex.italic.gray-8
+                    .flex-none.pr-01=`${talk.when},`
                     if talk.where_link
-                      a.fln.underline.black.hover_no-underline(href=talk.where_link)=talk.where
+                      a.flex-none.underline.black.hover_no-underline(href=talk.where_link)=talk.where
                     else
-                      .fln=talk.where
+                      .flex-none=talk.where

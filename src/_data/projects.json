@@ -6,22 +6,16 @@
     "url": "https://gamemaster.pixelastic.com/maps/"
   },
   {
-    "description": "Flags of all nations of the world, with only one <div> and CSS",
-    "name": "CSS Flags",
-    "screenshot": "images/projects/cssFlags.png",
-    "url": "https://pixelastic.github.io/css-flags/"
+    "description": "Find the perfect D&D 5e monster for your encounter",
+    "name": "D&D 5e Monster Search",
+    "screenshot": "images/projects/dD5EMonsterSearch.png",
+    "url": "https://gamemaster.pixelastic.com/monsters/dnd/"
   },
   {
-    "description": "Are Akiban, Arbok, Mukubird and Summingbird Pokemon names or Big Data technology?",
-    "name": "Is it Pokemon or Big Data?",
-    "screenshot": "images/projects/isItPokemonOrBigData.png",
-    "url": "http://pixelastic.github.io/pokemonorbigdata/"
-  },
-  {
-    "description": "A search engine in pure CSS",
-    "name": "Algolia CSS API Client",
-    "screenshot": "images/projects/algoliaCssApiClient.png",
-    "url": "https://www.algolia.com/css"
+    "description": "A toolbox for command-line scripts",
+    "name": "firost",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/firost/"
   },
   {
     "description": "Opinionated Static Site Generator using pug and tailwind",
@@ -30,10 +24,28 @@
     "url": "https://projects.pixelastic.com/norska/"
   },
   {
-    "description": "A toolbox for command-line scripts",
-    "name": "firost",
-    "screenshot": "",
-    "url": "https://projects.pixelastic.com/firost/"
+    "description": "Flags of all nations of the world, with only one <div> and CSS",
+    "name": "CSS Flags",
+    "screenshot": "images/projects/cssFlags.png",
+    "url": "https://pixelastic.github.io/css-flags/"
+  },
+  {
+    "description": "A search engine in pure CSS",
+    "name": "Algolia CSS API Client",
+    "screenshot": "images/projects/algoliaCssApiClient.png",
+    "url": "https://www.algolia.com/css"
+  },
+  {
+    "description": "Are Akiban, Arbok, Mukubird and Summingbird Pokemon names or Big Data technology?",
+    "name": "Is it Pokemon or Big Data?",
+    "screenshot": "images/projects/isItPokemonOrBigData.png",
+    "url": "http://pixelastic.github.io/pokemonorbigdata/"
+  },
+  {
+    "description": "Let me read your mind",
+    "name": "Mind Reader Magic",
+    "screenshot": "images/projects/mindReaderMagic.png",
+    "url": "https://projects.pixelastic.com/magic/"
   },
   {
     "description": "Meta-package including all the libs I always need (lodash, pify, etc)",
@@ -54,16 +66,22 @@
     "url": "https://projects.pixelastic.com/on-circle/"
   },
   {
-    "description": "Find the perfect D&D 5e monster for your encounter",
-    "name": "D&D 5e Monster Search",
-    "screenshot": "images/projects/dD5EMonsterSearch.png",
-    "url": "https://gamemaster.pixelastic.com/monsters/dnd/"
+    "description": "Find inspiration from Baldur's Gate magic items",
+    "name": "Artefacts",
+    "screenshot": "images/projects/artefacts.png",
+    "url": "https://gamemaster.pixelastic.com/artefacts/"
   },
   {
-    "description": "Let me read your mind",
-    "name": "Mind Reader Magic",
-    "screenshot": "images/projects/mindReaderMagic.png",
-    "url": "https://projects.pixelastic.com/magic/"
+    "description": "Searchable list of all the Pathfinder Society scenarios",
+    "name": "Pathfinder Society Search",
+    "screenshot": "images/projects/pathfinderSocietySearch.png",
+    "url": "https://gamemaster.pixelastic.com/society/"
+  },
+  {
+    "description": "Searchable list of all the Pathfinder Gods",
+    "name": "Pathfinder Gods",
+    "screenshot": "images/projects/pathfinderGods.png",
+    "url": "https://gamemaster.pixelastic.com/gods/"
   },
   {
     "description": "Searchable list of all Marvel superheroes and supervillains ",
@@ -72,16 +90,16 @@
     "url": "https://community.algolia.com/marvel-search/"
   },
   {
+    "description": "Search in all the Sherlock Holmes books",
+    "name": "Sherlock Search",
+    "screenshot": "images/projects/sherlockSearch.png",
+    "url": "https://pixelastic.github.io/sherlock-search/"
+  },
+  {
     "description": "Official Algolia plugin for Jekyll",
     "name": "Algolia for Jekyll",
     "screenshot": "images/projects/algoliaForJekyll.png",
     "url": "https://community.algolia.com/jekyll-algolia/"
-  },
-  {
-    "description": "Searchable list of all the Pathfinder Society scenarios",
-    "name": "Pathfinder Society Search",
-    "screenshot": "images/projects/pathfinderSocietySearch.png",
-    "url": "https://gamemaster.pixelastic.com/society/"
   },
   {
     "description": "Search into YouTube videos content and jump exactly at the time of a match",
@@ -94,12 +112,6 @@
     "name": "dotCSS onediv",
     "screenshot": "images/projects/dotCssOnediv.png",
     "url": "https://pixelastic.github.io/dotcss-onediv/"
-  },
-  {
-    "description": "Search in all the Sherlock Holmes books",
-    "name": "Sherlock Search",
-    "screenshot": "images/projects/sherlockSearch.png",
-    "url": "https://pixelastic.github.io/sherlock-search/"
   },
   {
     "description": "Pick a meetup event attendee at random in the list of registered users",

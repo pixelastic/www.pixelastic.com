@@ -1,26 +1,26 @@
 .absolute.w-100p.top-0.z-9.min-h-8.bg-green-6
-  .flrw.flral.h-100p.flc.px-1.md_px-2
+  .flex.flex-wrap.flex-main-start.h-100p.px-1.md_px-2
     input.hidden(type="checkbox" id="menu_checkbox")
     //- Title
-    .fln.bold.white.text-6.flral.flrnw.flc.h-8
+    .flex-none.bold.white.text-6.flex.flex-main-start.flex.flex-center.h-8
       a(href=url.base) pixelastic
     //- Hamburger menu
-    .fla.flrnw.flrar.md_hidden
+    .flex-auto.flex.flex-main-end.flex-cross-center.md_hidden
       label#menu_button.fill-current.border.rounded.p-02.green-2.pointer.hover_white(for="menu_checkbox")
         svg.h-3.w-3(viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg")
           title Menu
           path(d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z")
     //- Menu
-    #menu_content.fln.w-100p.hidden.md_flex.md_fla.md_w-auto
-     .fla.flcnw.white.text-4.md_flrnw.md_flrar.md_flc.pb-1.sm_pb-0
+    #menu_content.flex-none.w-100p.hidden.md_flex.md_flex-auto.md_w-auto
+     .flex-auto.flex.flex-col.white.text-4.md_flex-row.md_flex-main-end.md_flex-cross-center.pb-1.sm_pb-0
        a.px-02.py-01.md_px-1.green-1.hover_white.hover_bg-green-8.rounded-3(href=`${url.pathToRoot}coaching/`) Coaching
        a.px-02.py-01.md_px-1.green-1.hover_white.hover_bg-green-8.rounded-3(href=`${url.pathToRoot}projects/`) Projects
        a.px-02.py-01.md_px-1.green-1.hover_white.hover_bg-green-8.rounded-3(href=`${url.pathToRoot}talks/`) Talks
        // a.px-02.py-01.md_px-1.green-1.hover_white.hover_bg-green-8.rounded-3(href="./talks.html") Talks
        a.px-02.py-01.md_px-1.green-1.hover_white.hover_bg-green-8.rounded-3(href="http://blog.pixelastic.com") Blog
-       a.px-02.py-01.md_p-02.md_mx-01.green-1.hover_white.hover_bg-green-8.rounded-3.fill-current.flrnw(href="https://github.com/pixelastic")
+       a.px-02.py-01.md_p-02.md_mx-01.green-1.hover_white.hover_bg-green-8.rounded-3.fill-current.flex(href="https://github.com/pixelastic")
          include ./svg/github
-       a.px-02.py-01.md_p-02.md_mx-01.green-1.hover_white.hover_bg-green-8.rounded-3.fill-current.flrnw(href="https://twitter.com/pixelastic")
+       a.px-02.py-01.md_p-02.md_mx-01.green-1.hover_white.hover_bg-green-8.rounded-3.fill-current.flex(href="https://twitter.com/pixelastic")
          .md_hidden.pr-01 Twitter
          svg.h-4.w-4.hidden.md_block(xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20")
            title Twitter

@@ -140,8 +140,8 @@
   {
     "description": "Crawling of Wiki pages made easier",
     "name": "aoinan",
-    "screenshot": "",
-    "url": "https://github.com/pixelastic/aoinan"
+    "screenshot": "images/projects/aoinan.png",
+    "url": "https://projects.pixelastic.com/aoinan/"
   },
   {
     "description": "Batch convert import statements to require calls in JavaScript files",

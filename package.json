@@ -31,5 +31,8 @@
     "serve": "./scripts/serve",
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
+  },
+  "engines": {
+    "node": ">=14.17.0"
   }
 }

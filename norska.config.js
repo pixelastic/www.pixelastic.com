@@ -1,5 +1,3 @@
 module.exports = {
-  cloudinary: {
-    bucketName: 'pixelastic-www',
-  },
+  cloudinary: 'pixelastic-www',
 };

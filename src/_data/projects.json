@@ -24,6 +24,18 @@
     "url": "https://projects.pixelastic.com/norska/"
   },
   {
+    "description": "Crawling of Wiki pages made easier",
+    "name": "aoinan",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/aoinan/"
+  },
+  {
+    "description": "A set of utility for configuring and running scripts on CircleCI",
+    "name": "on-circle",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/on-circle/"
+  },
+  {
     "description": "Flags of all nations of the world, with only one <div> and CSS",
     "name": "CSS Flags",
     "screenshot": "images/projects/cssFlags.png",
@@ -48,24 +60,6 @@
     "url": "https://projects.pixelastic.com/magic/"
   },
   {
-    "description": "Meta-package including all the libs I always need (lodash, pify, etc)",
-    "name": "golgoth",
-    "screenshot": "",
-    "url": "https://projects.pixelastic.com/golgoth/"
-  },
-  {
-    "description": "Scaffolding npm projects with test, lint and release scripts",
-    "name": "aberlaas",
-    "screenshot": "",
-    "url": "https://github.com/pixelastic/aberlaas"
-  },
-  {
-    "description": "A set of utility for configuring and running scripts on CircleCI",
-    "name": "on-circle",
-    "screenshot": "",
-    "url": "https://projects.pixelastic.com/on-circle/"
-  },
-  {
     "description": "Find inspiration from Baldur's Gate magic items",
     "name": "Artefacts",
     "screenshot": "images/projects/artefacts.png",
@@ -78,16 +72,22 @@
     "url": "https://gamemaster.pixelastic.com/society/"
   },
   {
-    "description": "Searchable list of all the Pathfinder Gods",
-    "name": "Pathfinder Gods",
-    "screenshot": "images/projects/pathfinderGods.png",
-    "url": "https://gamemaster.pixelastic.com/gods/"
+    "description": "Scaffolding npm projects with test, lint and release scripts",
+    "name": "aberlaas",
+    "screenshot": "",
+    "url": "https://github.com/pixelastic/aberlaas"
   },
   {
     "description": "Searchable list of all Marvel superheroes and supervillains ",
     "name": "Marvel Search",
     "screenshot": "images/projects/marvelSearch.png",
     "url": "https://community.algolia.com/marvel-search/"
+  },
+  {
+    "description": "Searchable list of all the Pathfinder Gods",
+    "name": "Pathfinder Gods",
+    "screenshot": "images/projects/pathfinderGods.png",
+    "url": "https://gamemaster.pixelastic.com/gods/"
   },
   {
     "description": "Search in all the Sherlock Holmes books",
@@ -136,12 +136,6 @@
     "name": "sov",
     "screenshot": "",
     "url": "https://github.com/pixelastic/sov"
-  },
-  {
-    "description": "Crawling of Wiki pages made easier",
-    "name": "aoinan",
-    "screenshot": "images/projects/aoinan.png",
-    "url": "https://projects.pixelastic.com/aoinan/"
   },
   {
     "description": "Batch convert import statements to require calls in JavaScript files",

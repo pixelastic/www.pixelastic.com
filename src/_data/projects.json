@@ -24,16 +24,22 @@
     "url": "https://projects.pixelastic.com/norska/"
   },
   {
-    "description": "Crawling of Wiki pages made easier",
-    "name": "aoinan",
+    "description": "Generate blurry placeholder of any image",
+    "name": "imoen",
     "screenshot": "",
-    "url": "https://projects.pixelastic.com/aoinan/"
+    "url": "https://projects.pixelastic.com/imoen/"
   },
   {
     "description": "A set of utility for configuring and running scripts on CircleCI",
     "name": "on-circle",
     "screenshot": "",
     "url": "https://projects.pixelastic.com/on-circle/"
+  },
+  {
+    "description": "Crawling of Wiki pages made easier",
+    "name": "aoinan",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/aoinan/"
   },
   {
     "description": "Flags of all nations of the world, with only one <div> and CSS",

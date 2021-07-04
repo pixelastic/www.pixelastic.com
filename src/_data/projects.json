@@ -24,10 +24,16 @@
     "url": "https://projects.pixelastic.com/norska/"
   },
   {
-    "description": "Generate blurry placeholder of any image",
+    "description": "Generate blurry placeholders of any image",
     "name": "imoen",
     "screenshot": "",
     "url": "https://projects.pixelastic.com/imoen/"
+  },
+  {
+    "description": "Import all posts from a subreddit in JSON format",
+    "name": "reddinx",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/reddinx/"
   },
   {
     "description": "A set of utility for configuring and running scripts on CircleCI",

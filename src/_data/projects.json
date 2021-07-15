@@ -96,10 +96,10 @@
     "url": "https://community.algolia.com/marvel-search/"
   },
   {
-    "description": "Searchable list of all the Pathfinder Gods",
-    "name": "Pathfinder Gods",
-    "screenshot": "images/projects/pathfinderGods.png",
-    "url": "https://gamemaster.pixelastic.com/gods/"
+    "description": "Searchable Pathfinder Pantheon",
+    "name": "Pathfinder Pantheon",
+    "screenshot": "images/projects/pantheon.png",
+    "url": "https://gamemaster.pixelastic.com/pantheon/"
   },
   {
     "description": "Search in all the Sherlock Holmes books",

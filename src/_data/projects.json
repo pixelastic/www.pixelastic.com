@@ -24,6 +24,12 @@
     "url": "https://projects.pixelastic.com/norska/"
   },
   {
+    "description": "Search through beautiful landscape pictures",
+    "name": "Landscape Search",
+    "screenshot": "images/projects/landscape.png",
+    "url": "https://projects.pixelastic.com/landscapes/"
+  },
+  {
     "description": "Generate blurry placeholders of any image",
     "name": "imoen",
     "screenshot": "",

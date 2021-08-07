@@ -7,7 +7,7 @@
   },
   {
     "description": "Find the perfect D&D 5e monster for your encounter",
-    "name": "D&D 5e Monster Search",
+    "name": "D&D Monsters",
     "screenshot": "images/projects/dD5EMonsterSearch.png",
     "url": "https://gamemaster.pixelastic.com/monsters/dnd/"
   },
@@ -70,6 +70,12 @@
     "name": "Is it Pokemon or Big Data?",
     "screenshot": "images/projects/isItPokemonOrBigData.png",
     "url": "http://pixelastic.github.io/pokemonorbigdata/"
+  },
+  {
+    "description": "Meta-package of my most used modules.",
+    "name": "golgoth",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/golgoth/"
   },
   {
     "description": "Let me read your mind",
@@ -148,12 +154,6 @@
     "name": "pietro",
     "screenshot": "",
     "url": "https://github.com/pixelastic/pietro"
-  },
-  {
-    "description": "Generate slides with HTML and CSS",
-    "name": "sov",
-    "screenshot": "",
-    "url": "https://github.com/pixelastic/sov"
   },
   {
     "description": "Batch convert import statements to require calls in JavaScript files",

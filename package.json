@@ -4,7 +4,7 @@
     "url": "https://github.com/pixelastic/www.pixelastic.com/issues"
   },
   "dependencies": {
-    "norska": "2.7.0"
+    "norska": "2.9.0"
   },
   "description": "Tim Carry's (@pixelastic) website",
   "devDependencies": {

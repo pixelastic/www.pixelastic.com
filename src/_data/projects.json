@@ -42,6 +42,12 @@
     "url": "https://projects.pixelastic.com/reddinx/"
   },
   {
+    "description": "Glorious git and GitHub toolbox",
+    "name": "Gilmore",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/gilmore/"
+  },
+  {
     "description": "A set of utility for configuring and running scripts on CircleCI",
     "name": "on-circle",
     "screenshot": "",

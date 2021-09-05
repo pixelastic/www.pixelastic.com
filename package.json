@@ -9,7 +9,7 @@
   "description": "Tim Carry's (@pixelastic) website",
   "devDependencies": {
     "aberlaas": "1.25.0",
-    "firost": "2.16.4",
+    "firost": "2.17.0",
     "golgoth": "2.1.0"
   },
   "files": [],

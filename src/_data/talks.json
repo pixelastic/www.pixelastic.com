@@ -1,5 +1,14 @@
 [
   {
+    "screenshot": "images/talks/blogTechVaincreLeSyndromeDeLaPageBlanche-parisJsMeetup-march2022.png",
+    "slides": "https://talks.pixelastic.com/slides/parisjs-blog/",
+    "title": "Blog tech: vaincre le syndrome de la page blanche",
+    "video": "https://www.youtube.com/watch?v=CVrj7ioaGnI",
+    "when": "March 2022",
+    "where": "ParisJS #97",
+    "where_link": "https://www.meetup.com/paris-js/events/284673204/"
+  },
+  {
     "screenshot": "images/talks/reddinxARedditIndexer-algoliaCommunityPartyOnlineEdition-february2021.jpg",
     "slides": "https://talks.pixelastic.com/slides/algolia-community-reddinx/#slide0",
     "title": "Reddinx: A Reddit Indexer",

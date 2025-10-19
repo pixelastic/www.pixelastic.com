@@ -17,5 +17,5 @@ block content
               .block.h-14(href=project.url) !{content}
 
             .p-1
-              .blue.text-5.bold.hover_underline=project.name
+              .blue.text-5.bold.hover_underline=project.name + (project.isDeprecated ? ' (deprecated)' : '')
               .pt-01.text-2.black=project.description

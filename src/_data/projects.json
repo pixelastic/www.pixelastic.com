@@ -1,11 +1,5 @@
 [
   {
-    "description": "Search for D&D maps for your next game",
-    "name": "D&D Maps",
-    "screenshot": "images/projects/dDMaps.png",
-    "url": "https://gamemaster.pixelastic.com/maps/"
-  },
-  {
     "description": "Find the perfect D&D 5e monster for your encounter",
     "name": "D&D Monsters",
     "screenshot": "images/projects/dD5EMonsterSearch.png",
@@ -24,22 +18,10 @@
     "url": "https://projects.pixelastic.com/norska/"
   },
   {
-    "description": "Search through beautiful landscape pictures",
-    "name": "Landscape Search",
-    "screenshot": "images/projects/landscapes.png",
-    "url": "https://projects.pixelastic.com/landscapes/"
-  },
-  {
     "description": "Generate blurry placeholders of any image",
     "name": "imoen",
     "screenshot": "",
     "url": "https://projects.pixelastic.com/imoen/"
-  },
-  {
-    "description": "Import all posts from a subreddit in JSON format",
-    "name": "reddinx",
-    "screenshot": "",
-    "url": "https://projects.pixelastic.com/reddinx/"
   },
   {
     "description": "Glorious git and GitHub toolbox",
@@ -144,12 +126,6 @@
     "url": "https://pixelastic.github.io/dotcss-onediv/"
   },
   {
-    "description": "Pick a meetup event attendee at random in the list of registered users",
-    "name": "Random Meetup Attendee Picker",
-    "screenshot": "images/projects/randomMeetupAttendeePicker.png",
-    "url": "https://pixelastic.github.io/meetup-random-user/"
-  },
-  {
     "description": "My dotfiles repo. zsh, vim, git and more config and aliases",
     "name": "oroshi",
     "screenshot": "",
@@ -222,6 +198,31 @@
     "url": "https://github.com/pixelastic/dconf-export"
   },
   {
+    "description": "Import all posts from a subreddit in JSON format",
+    "name": "reddinx",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/reddinx/",
+    "isDeprecated": true
+  },
+  {
+    "description": "Search through beautiful landscape pictures",
+    "name": "Landscape Search",
+    "screenshot": "images/projects/landscapes.png",
+    "url": "https://projects.pixelastic.com/landscapes/"
+  },
+  {
+    "description": "Search for D&D maps for your next game",
+    "name": "D&D Maps",
+    "screenshot": "images/projects/dDMaps.png",
+    "url": "https://gamemaster.pixelastic.com/maps/"
+  },
+  {
+    "description": "Search through terrain building inspiration",
+    "name": "Terrainbuild Search",
+    "screenshot": "images/projects/terrainBuilding.png",
+    "url": "https://gamemaster.pixelastic.com/terrainbuilding/"
+  },
+  {
     "description": "JSON list of fake users, along with names, addresses, birthdays and pictures",
     "name": "fakeusers",
     "screenshot": "",
@@ -238,6 +239,13 @@
     "name": "HumanTalks Search",
     "screenshot": "images/projects/humanTalksSearch.png",
     "url": "https://pixelastic.github.io/humantalks/"
+  },
+  {
+    "description": "Pick a meetup event attendee at random in the list of registered users",
+    "name": "Random Meetup Attendee Picker",
+    "screenshot": "images/projects/randomMeetupAttendeePicker.png",
+    "url": "https://pixelastic.github.io/meetup-random-user/",
+    "isDeprecated": true
   },
   {
     "description": "Collection of roleplay texts written by the french WoW community",

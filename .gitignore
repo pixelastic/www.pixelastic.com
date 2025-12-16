@@ -3,6 +3,7 @@
 .envrc
 .sass-cache
 .yalc/
+.claude/
 # Directories
 build/
 dist/

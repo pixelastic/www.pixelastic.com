@@ -1,5 +1,11 @@
 [
   {
+    "description": "Search into all episodes of Season 1 of Bref.",
+    "name": "Bref Search",
+    "screenshot": "images/projects/brefSearch.png",
+    "url": "https://www.brefsearch.com/"
+  },
+  {
     "description": "Find the perfect D&D 5e monster for your encounter",
     "name": "D&D Monsters",
     "screenshot": "images/projects/dD5EMonsterSearch.png",
@@ -12,34 +18,16 @@
     "url": "https://projects.pixelastic.com/firost/"
   },
   {
-    "description": "Opinionated Static Site Generator using pug and tailwind",
-    "name": "norska",
-    "screenshot": "",
-    "url": "https://projects.pixelastic.com/norska/"
-  },
-  {
     "description": "Generate blurry placeholders of any image",
     "name": "imoen",
     "screenshot": "",
     "url": "https://projects.pixelastic.com/imoen/"
   },
   {
-    "description": "Glorious git and GitHub toolbox",
-    "name": "Gilmore",
-    "screenshot": "",
-    "url": "https://projects.pixelastic.com/gilmore/"
-  },
-  {
-    "description": "A set of utility for configuring and running scripts on CircleCI",
-    "name": "on-circle",
-    "screenshot": "",
-    "url": "https://projects.pixelastic.com/on-circle/"
-  },
-  {
-    "description": "Crawling of Wiki pages made easier",
-    "name": "aoinan",
-    "screenshot": "",
-    "url": "https://projects.pixelastic.com/aoinan/"
+    "description": "Append a signature image to a PDF, directly from your browser",
+    "name": "Signature",
+    "screenshot": "images/projects/signature.png",
+    "url": "https://projects.pixelastic.com/signature/"
   },
   {
     "description": "Flags of all nations of the world, with only one <div> and CSS",
@@ -60,22 +48,58 @@
     "url": "http://pixelastic.github.io/pokemonorbigdata/"
   },
   {
-    "description": "Meta-package of my most used modules.",
-    "name": "golgoth",
-    "screenshot": "",
-    "url": "https://projects.pixelastic.com/golgoth/"
-  },
-  {
     "description": "Let me read your mind",
     "name": "Mind Reader Magic",
     "screenshot": "images/projects/mindReaderMagic.png",
     "url": "https://projects.pixelastic.com/magic/"
   },
   {
+    "description": "Meta-package of my most used modules",
+    "name": "golgoth",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/golgoth/"
+  },
+  {
+    "description": "Glorious git and GitHub toolbox",
+    "name": "Gilmore",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/gilmore/"
+  },
+  {
+    "description": "Search through beautiful landscape pictures",
+    "name": "Landscape Search",
+    "screenshot": "images/projects/landscapes.png",
+    "url": "https://projects.pixelastic.com/landscapes/"
+  },
+  {
+    "description": "Search for D&D maps for your next game",
+    "name": "D&D Maps",
+    "screenshot": "images/projects/dDMaps.png",
+    "url": "https://gamemaster.pixelastic.com/maps/"
+  },
+  {
+    "description": "A set of utility for configuring and running scripts on CircleCI",
+    "name": "on-circle",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/on-circle/"
+  },
+  {
+    "description": "Crawling of Wiki pages made easier",
+    "name": "aoinan",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/aoinan/"
+  },
+  {
     "description": "Find inspiration from Baldur's Gate magic items",
     "name": "Artefacts",
     "screenshot": "images/projects/artefacts.png",
     "url": "https://gamemaster.pixelastic.com/artefacts/"
+  },
+  {
+    "description": "Opinionated Static Site Generator using pug and tailwind",
+    "name": "norska",
+    "screenshot": "",
+    "url": "https://projects.pixelastic.com/norska/"
   },
   {
     "description": "Searchable list of all the Pathfinder Society scenarios",
@@ -108,13 +132,13 @@
     "url": "https://pixelastic.github.io/sherlock-search/"
   },
   {
-    "description": "Official Algolia plugin for Jekyll",
+    "description": "Official Algolia plugin for Jekyll (unmaintained)",
     "name": "Algolia for Jekyll",
     "screenshot": "images/projects/algoliaForJekyll.png",
     "url": "https://community.algolia.com/jekyll-algolia/"
   },
   {
-    "description": "Search into YouTube videos content and jump exactly at the time of a match",
+    "description": "Search into YouTube videos content and jump exactly at the time of a match (deprecated)",
     "name": "TalkSearch",
     "screenshot": "images/projects/talkSearch.png",
     "url": "https://community.algolia.com/talksearch/"
@@ -132,7 +156,7 @@
     "url": "https://github.com/pixelastic/oroshi"
   },
   {
-    "description": "Utilities to split PDF files into smaller files, generate thumbnails and extract textual content.",
+    "description": "Utilities to split PDF files into smaller files, generate thumbnails and extract textual content",
     "name": "pietro",
     "screenshot": "",
     "url": "https://github.com/pixelastic/pietro"
@@ -150,7 +174,7 @@
     "url": "https://github.com/pixelastic/programmingexcuses.sh"
   },
   {
-    "description": "Display any image in the terminal, using unicode and ANSI color codes.",
+    "description": "Display any image in the terminal, using unicode and ANSI color codes",
     "name": "img2term",
     "screenshot": "images/projects/img2Term.png",
     "url": "https://github.com/pixelastic/img2term"
@@ -168,13 +192,13 @@
     "url": "https://github.com/pixelastic/anchorrb"
   },
   {
-    "description": "SQL dump of all the french cities.",
+    "description": "SQL dump of all the french cities",
     "name": "sql-french-cities",
     "screenshot": "",
     "url": "https://github.com/pixelastic/sql-french-cities"
   },
   {
-    "description": "Convert any .jpg or .png to a single CSS div.",
+    "description": "Convert any .jpg or .png to a single CSS div",
     "name": "img2css",
     "screenshot": "",
     "url": "https://github.com/pixelastic/img2css"
@@ -186,13 +210,13 @@
     "url": "https://github.com/pixelastic/playlist2json"
   },
   {
-    "description": "Commandline tool to get the closest hexadecimal value of a Pantone color.",
+    "description": "Commandline tool to get the closest hexadecimal value of a Pantone color",
     "name": "pantone2hex",
     "screenshot": "",
     "url": "https://github.com/pixelastic/pantone2hex"
   },
   {
-    "description": "Export your dconf settings as an editable .sh file.",
+    "description": "Export your dconf settings as an editable .sh file",
     "name": "dconf-export",
     "screenshot": "",
     "url": "https://github.com/pixelastic/dconf-export"
@@ -203,18 +227,6 @@
     "screenshot": "",
     "url": "https://projects.pixelastic.com/reddinx/",
     "isDeprecated": true
-  },
-  {
-    "description": "Search through beautiful landscape pictures",
-    "name": "Landscape Search",
-    "screenshot": "images/projects/landscapes.png",
-    "url": "https://projects.pixelastic.com/landscapes/"
-  },
-  {
-    "description": "Search for D&D maps for your next game",
-    "name": "D&D Maps",
-    "screenshot": "images/projects/dDMaps.png",
-    "url": "https://gamemaster.pixelastic.com/maps/"
   },
   {
     "description": "Search through terrain building inspiration",

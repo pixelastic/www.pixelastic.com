@@ -1,5 +1,124 @@
 [
   {
+    "title": "\"C'était dans quel épisode déjà ?\" - Bref, j'ai indexé une série culte",
+    "where": "DevFest Nantes",
+    "where_link": "https://devfest2025.gdgnantes.com/en/sessions/_c_etait_dans_quel_episode_deja______bref__j_ai_indexe_une_serie_culte",
+    "when": "October 2025",
+    "video": "https://www.youtube.com/watch?v=tVohBH0rcbc",
+    "slides": "https://talks.pixelastic.com/slides/brefSearch-devfest-nantes/slides.pdf",
+    "slides_gdrive": "https://docs.google.com/presentation/d/1SzeqWaNyxK-r542TgvnRDoFkXOxk2mgPn0kc5CCG1_s/edit?usp=sharing",
+    "screenshot": "images/talks/brefSearch-devfest-nantes.png"
+  },
+  {
+    "title": "C'était dans quel épisode déjà ? Bref, j'ai indexé une série culte",
+    "where": "DevFest Lyon",
+    "where_link": "https://devfest.gdglyon.com/",
+    "when": "November 2025",
+    "video": null,
+    "slides": "https://talks.pixelastic.com/slides/brefSearch-devfest-lyon/slides.pdf",
+    "slides_gdrive": "https://docs.google.com/presentation/d/1r3n2bAvLecdkg3xNTQ1riTX0wByyGIYzVmiXvikDpD0/edit?usp=sharing",
+    "screenshot": "images/talks/brefSearch-devfest-lyon.png"
+  },
+  {
+    "title": "Être fainéant, ça demande du travail (et de l'IA)",
+    "where": "Nantes - Meetup No-code",
+    "where_link": "https://www.meetup.com/nocode-france/events/311715224/",
+    "when": "December 2025",
+    "video": null,
+    "slides": "https://talks.pixelastic.com/slides/nocode-ai-nantes/slides.pdf",
+    "slides_gdrive": "https://docs.google.com/presentation/d/12-cxbTnIY0OgEzH_881-pM38-FdMOby1WULgkqJrdos/edit?usp=sharing",
+    "screenshot": "images/talks/nocode-ai-nantes.png"
+  },
+  {
+    "title": "\"C'était dans quel épisode déjà\"",
+    "where": "NantesJS",
+    "where_link": "https://nantesjs.org/meetup-81/",
+    "when": "April 2025",
+    "video": null,
+    "slides": "https://talks.pixelastic.com/slides/brefSearch-nantesjs/slides.pdf",
+    "slides_gdrive": "https://docs.google.com/presentation/d/1GddgYhJexfTJ43BoUaahlRtz4G5Ms_IpAkd5Xkh_Hk8/edit?usp=sharing",
+    "screenshot": "images/talks/brefSearch-nantesjs.png"
+  },
+  {
+    "title": "Which episode was that?",
+    "where": "Algolia DevBit",
+    "where_link": "https://www.algolia.com/blog/engineering/which-episode-was-that-making-your-favorite-tv-show-searchable",
+    "when": "March 2025",
+    "video": "https://www.youtube.com/watch?v=fRH4KyQS6-g",
+    "slides": "https://talks.pixelastic.com/slides/brefsearch-devbit/slides.pdf",
+    "slides_gdrive": "https://docs.google.com/presentation/d/1Y_jKyB9JEb9ccxVz-jcGLwCthw4_JUUK-nrkYca8uTM/edit?usp=sharing",
+    "screenshot": "images/talks/brefsearch-devbit.png"
+  },
+  {
+    "title": "\"C'était dans quel épisode déjà ?\" - Bref, j'ai indexé une série culte",
+    "where": "DevPropulsor",
+    "where_link": "https://www.youtube.com/@devpropulsor",
+    "when": "December 2025",
+    "video": "https://www.youtube.com/watch?v=Mp7uEaae4TY",
+    "slides": null,
+    "screenshot": "images/talks/brefSearch-devPropulsor.png"
+  },
+  {
+    "title": "Comment j'en fais plus avec mon terminal",
+    "where": "HumanTalks Paris",
+    "where_link": "https://www.meetup.com/fr-fr/humantalks-paris/events/298144497/",
+    "when": "January 2024",
+    "video": "https://www.youtube.com/watch?v=Plu8amMBe_M",
+    "slides": "https://talks.pixelastic.com/slides/moreWithTerminal-humantalks/slides.pdf",
+    "slides_gdrive": "https://docs.google.com/presentation/d/1K1y4IWncaKo_XoL9dcgUQsvty1nfmFxrCk2LFMxLCoA/edit?usp=sharing",
+    "screenshot": "images/talks/moreWithTerminal-humantalks.png"
+  },
+  {
+    "title": "\"C'était dans quel épisode déjà ?\" - Bref, j'ai indexé une série culte",
+    "where": "VueJS Paris",
+    "where_link": "https://www.meetup.com/vuejs-paris/events/310596794/",
+    "when": "September 2025",
+    "video": null,
+    "slides": "https://talks.pixelastic.com/slides/brefSearch-vuejs/slides.pdf",
+    "slides_gdrive": "https://docs.google.com/presentation/d/1Msy8wSO2tL7wti_ZnniBgXUnESNCDsm-dsrjh9jlPkM/edit?usp=sharing",
+    "screenshot": "images/talks/brefSearch-vuejs.png"
+  },
+  {
+    "title": "La théorie des 4S: Subject, Speaker, Story, Slides.",
+    "where": "Paris TypeScript",
+    "where_link": "https://www.meetup.com/paris-typescript/events/307201552/",
+    "when": "May 2025",
+    "video": null,
+    "slides": "https://talks.pixelastic.com/slides/publicSpeaking4S-typescript/slides.pdf",
+    "slides_gdrive": "https://docs.google.com/presentation/d/1WOJh9QGOAEy38kiN1szu12c79FPRAVTLO7Yf3hc-LTs/edit?usp=sharing",
+    "screenshot": "images/talks/publicSpeaking4S-typescript.png"
+  },
+  {
+    "title": "La théorie des 4S : Subject, Storytelling, Slides, Speaker",
+    "where": "Angular Paris",
+    "where_link": "https://www.meetup.com/paris-angular/events/312036234/",
+    "when": "December 2025",
+    "video": null,
+    "slides": "https://talks.pixelastic.com/slides/publicSpeaking4S-angular/slides.pdf",
+    "slides_gdrive": "https://docs.google.com/presentation/d/1f7jJTVM_Hc-ttcloQSLqd5cB4oajfURFpsRvGxYAmJg/edit?usp=sharing",
+    "screenshot": "images/talks/publicSpeaking4S-angular.png"
+  },
+  {
+    "title": "Blog Tech: Vaincre le syndrome de la page blanche",
+    "where": "Humantalks Paris",
+    "where_link": "https://www.meetup.com/fr-fr/humantalks-paris/events/284921464/",
+    "when": "April 2022",
+    "video": "https://www.youtube.com/watch?v=Q4KkxmJgnNU",
+    "slides": "https://talks.pixelastic.com/slides/humantalks-blog/",
+    "screenshot": "images/talks/blogTech-humantalks.png"
+  },
+  {
+    "title": "Slides réussis: l'essential à connaitre.",
+    "when": "Novembre 2024",
+    "where": "HumanTalks Paris",
+    "where_link": "https://www.meetup.com/fr-fr/humantalks-paris/events/304412456/",
+    "video": "https://www.youtube.com/watch?v=CJ-m-4F4Odk",
+    "slides": "https://talks.pixelastic.com/slides/slidesReussis-humantalks-2024/slides.pdf",
+    "slides_gdrive": "https://docs.google.com/presentation/d/1d_iqgezpAHBgxIuhQbH_X9GuSjun8k3VWpWnu1lfeu0/edit?usp=sharing",
+    "screenshot": "images/talks/slidesReussis-humantalks-2024.png"
+  },
+
+  {
     "screenshot": "images/talks/blogTechVaincreLeSyndromeDeLaPageBlanche-parisJsMeetup-march2022.png",
     "slides": "https://talks.pixelastic.com/slides/parisjs-blog/",
     "title": "Blog tech: vaincre le syndrome de la page blanche",
@@ -32,7 +151,7 @@
     "title": "Peut-on garder une URL secrète ?",
     "video": "https://www.youtube.com/watch?v=JyNq_-OJ3dA",
     "when": "March 2020",
-    "where": "HumanTalks Paris meetup",
+    "where": "HumanTalks Paris",
     "where_link": "https://www.meetup.com/fr-FR/HumanTalks-Paris/events/269180953/"
   },
   {
@@ -104,7 +223,7 @@
     "title": "Techniques de mémorisation",
     "video": "",
     "when": "October 2015",
-    "where": "HumanTalks Paris meetup",
+    "where": "HumanTalks Paris",
     "where_link": "https://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/"
   },
   {
@@ -122,7 +241,7 @@
     "title": "Prise de Parole en Public",
     "video": "https://www.youtube.com/watch?v=ZDcIm-WzpJw",
     "when": "November 2016",
-    "where": "HumanTalks Paris meetup",
+    "where": "HumanTalks Paris",
     "where_link": "https://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/"
   },
   {
@@ -284,7 +403,7 @@
     "title": "Marvel Super-Search!",
     "video": "",
     "when": "May 2016",
-    "where": "HumanTalks Paris meetup",
+    "where": "HumanTalks Paris",
     "where_link": "https://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/"
   },
   {
@@ -347,7 +466,7 @@
     "title": "Vim ? Il y a encore des gens qui codent avec ça ?",
     "video": "",
     "when": "April 2015",
-    "where": "HumanTalks Paris meetup",
+    "where": "HumanTalks Paris",
     "where_link": "https://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/"
   },
   {
@@ -383,7 +502,7 @@
     "title": "Concatenate, Compress, Cache",
     "video": "",
     "when": "September 2014",
-    "where": "HumanTalks Paris meetup",
+    "where": "HumanTalks Paris",
     "where_link": "https://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/"
   },
   {

@@ -109,6 +109,15 @@
     "screenshot": "images/talks/moreWithTerminal-humantalks.png"
   },
   {
+    "title": "Creative CSS: Mon logo en CSS",
+    "where": "Humantalks Paris",
+    "where_link": "https://www.meetup.com/fr-fr/humantalks-paris/events/288281668/",
+    "when": "September 2022",
+    "video": "https://www.youtube.com/watch?v=IOcTh3AoMDw",
+    "slides": "https://talks.pixelastic.com/slides/contentsquareLogoCss-humantalks/slides.pdf",
+    "screenshot": "images/talks/contentsquareLogoCss-humantalks.png"
+  },
+  {
     "title": "Blog Tech: Vaincre le syndrome de la page blanche",
     "where": "Humantalks Paris",
     "where_link": "https://www.meetup.com/fr-fr/humantalks-paris/events/284921464/",
